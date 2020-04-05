@@ -11,4 +11,17 @@ class Conversor{
     1.- Ingresar Datos\n
     2.- Consultar Datos\n
     3-. Eliminar Datos");
+    String entrada;
+    entrada = X.readLine();
+    int option;
+    option = Integer.parseInt(entrada);
+    boolean candado = true;
+    switch(option){
+        case(1):
+            break;
+        case(2):
+            break;
+        case(3):
+            break;
+    }
     }}
