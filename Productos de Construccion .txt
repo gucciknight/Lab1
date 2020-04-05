@@ -1,0 +1,58 @@
+// ID, Descripcion ,Categoria,	Precio_unitario_pesos , local
+1, Pega bloques de vidrio 5kg, Pegamentos, 4990, Homecenter 
+2 Pega bloques de vidrios 15kg, Pegamentos, 14990, Homecenter 
+3, Morteros de reparacion 5kg, Cementos, 3990, Homecenter 
+4, Morteros de reparacion 15kg, Cementos, 8630, Homecenter 
+5, Estuco termico	20kg, Cementos, 9990, Homecenter 
+6, Estuco interior 25kg, Cementos, 2690, Homecenter 
+7, Estuco exterior 25kg, Cementos, 2690, Homecenter 
+8, Hormigon preparado 25kg, Cementos, 2690, Homecenter 
+9, Nivelador de pisos 25kg, Cementos, 8990, Homecenter 
+10,	Mortero Piso, 25kg Cementos, 2690, Homecenter 
+11,	Hormigon Rapido, 25kg Cementos, 6490, Homecenter 
+12,	Mortero anclaje & nivelacion 25kg, Cementos, 11290, Homecenter
+13,	Mortero pega, 25kg Cementos, 2795, Homecenter Sodimac
+14,	Mortero Color (negro) 20kg, Cementos, 15990, Homecenter 
+15,	Mortero Color (rojo) 20kg, Cementos, 15990, Homecenter
+16,	Mortero Color (ocre) 20kg, Cementos, 15990, Homecenter
+17,	Mortero Color (gris) 20kg, Cementos, 15990, Homecenter
+18,	Cemento gris 1kg, Cementos, 490, Homecenter 
+19,	Cemento gris 5kg, Cementos, 2290, Homecenter 
+20,	Cemento para refractario 1kg, Cementos, 8090, Homecenter
+21, Yeso espuma 25kg, Yesos, 3980, Homecenter 
+22, Yeos express 25kg, Yesos, 3980 , Homecenter 
+23, Cal Hidraulica 25kg, Cales,4920, Homecenter 
+24, cal pintaca; de 25kg, Cales,4690, Homecenter 
+25, Cal cica de 1 kg, 1490, Cales, Homecenter 
+26, Tierras de color(amarillo) 1kg,Tierras , 2490, Homecenter 
+27, Tierras de color(Rojo) 1kg, Tierras, 2490, Homecenter 
+28, Tierras de color(azul) 1kg, Tierras, 6590, Homecenter 
+29, Tierras de color(Rojo) 1kg, Tierras, 3690, Homecenter
+30, Masilla base 25kg, Masillas, 15390, Homecenter 
+31, Masilla base para juntas, Masillas, 5290, Homecenter 
+32, Ladrillo super 7 2.7 Kg, Ladrillos, 290, Homecenter 
+33, Ladrillo Super 9 3.5kg, Ladrillos, 690, Homecenter 
+34, Ladrillo Super 11 4.3kg, Ladrillos, 990, Homecenter
+35, Ladrillo Titan 3kg , Ladrillos, 290, Homecenter 
+36, Ladrillo Condor 2.4Kg, Ladrillos, 290, Homecenter 
+37, Ladrillo Super condor 3.2kg, Ladrillos, 490, Homecenter 
+38, Ladrillo Fiscal 3.5kg, Ladrillos, 150, Homecenter 
+39, Ladrillo Chapa 5.95kg 20 unid, Ladrillos, 9290, Homecenter
+40, Ladrillo Fachada Isa 7.85kg 12 unid,Ladrillos, 8120, Homecenter 
+41, Ladrillo Estrada 7.85kg 12 unid, Ladrillos, 8890, Homecenter 
+42, Ladrillo Baston 8.55 16 unid,Ladrillos, 5490, Homecenter
+43, Ladrillo Recto 9.1kg 3 unid, Ladrillos, 6190, Homecenter
+44, Ladrillo Tablilla 10.2Kg 6 unid, Ladrillos, 7990, Homecenter
+45, Arena fina 25kg, Aridos, 920, Homecenter 
+46, Arena gruesa 25kg, Aridos, 940, Homecenter 
+47, Gravilla 25kg, Aridos, 946, Homecenter 
+48, Pastelon liso 40x40cm, Pastelones, 1990, Homecenter
+49, Piedra de Maipo 40x40cm, Pastelones, 2190, Homecenter
+50, Pastelon gris 40x40cm, Pastelones,1690, Homecenter
+51, Pastelon gris 300 Granal 40x40cm, Pastelones, 2690, Homecenter
+52, Pastelon granitico 40x40cm, Pastelones, 5390, Homecenter
+53, Pastelon grano Fulget 40x40cm, Pastelones, 2290, Homecenmter
+54, Pastelon gris 300 pulido 40x40cm, Pastelones, 3290, Homecenter
+55, Pastelon piedra 40x40cm, Pastelones, 3490, Homecenter
+56, Solerilla canto redondo 20x100cm, Pastelones, 990, Homecenter
+57, Solerilla canto redondo 50x20cm, Pastelones, 1890, Homecenter
