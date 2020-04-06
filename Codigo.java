@@ -26,6 +26,7 @@ class Conversor{
     String Descripcion;
     String Categoria;
     String Precio;
+    // metodo para buscar palabras tanto descripcion como precio como categoria
     public static void BuscarPalabra(File archivo, String Descripcion) {
     	try {
     		if(archivo.exists()) {
@@ -37,6 +38,7 @@ class Conversor{
     	}
     }
     switch(option){
+    // caso 1 en construccion
         case(1):
         	archivo.canWrite(true);
         	System.out.println("Ha ingresado la opcione para ingresar datos\n"
@@ -64,6 +66,7 @@ class Conversor{
         	Escritura.close();
             break;
         case(2):
+        	//caso 2 Terminar metodo para poder ingresar busquedas
         	archivo.canRead(true);
         	System.out.println("Ha ingresado la opcion para Buscar Datos\n"
         			+ "Ingrese la opcion por como desea realizar la busqueda\n"
