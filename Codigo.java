@@ -21,8 +21,8 @@ class Conversor{
     boolean candado = true;
     int Cantidad;
     int Desicion;
-    int ID = Lectura.read();
-    int IDMAX = null;
+    int LineasTotales;
+    int TotalDeCoincidencias;
     String Descripcion;
     String Categoria;
     String Precio;
@@ -30,11 +30,24 @@ class Conversor{
     public static void BuscarPalabra(File archivo, String Descripcion) {
     	try {
     		if(archivo.exists()) {
+    			BufferedReader LeerArchivo = new BufferedReader(new FileReader("Productos de Construccion.txt"));
     			String LineaLeida;
-    			while((LineaLeida = X.readLine() != null)) {
-    				ID = ID + 1;
+    			while((LineaLeida = LeerArchivo.readLine() != null)) {
+    				LineasTotales = LineasTotales + 1;
+    				String[] palabras = LineaLeida.split(" ");
+    				for(int z = 0; z < palabras.length; z++) {
+    					if(palabras[z].equals(Descripcion)) {
+    						TotalDeCoincidencias = TotalDeCoincidencia + 1;
+    						System.out.println(LineaLeida+"\n"
+    								+ "En la linea "+ LineasTotales +" se encontro la palabra "+ TotalDeCoincidencias +" veces");
+    						
+    					}
+    				}
     			}
     		}
+    		System.out.println("En total se encontro la palabra "+ Descripcion + ", " + TotalDeCoincidencias);
+    	}catch(Exception e){
+    		System.out.println(e.getMessage());
     	}
     }
     switch(option){
