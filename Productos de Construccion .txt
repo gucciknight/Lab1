@@ -54,5 +54,95 @@
 53, Pastelon grano Fulget 40x40cm, Pastelones, 2290, Homecenmter
 54, Pastelon gris 300 pulido 40x40cm, Pastelones, 3290, Homecenter
 55, Pastelon piedra 40x40cm, Pastelones, 3490, Homecenter
-56, Solerilla canto redondo 20x100cm, Pastelones, 990, Homecenter
-57, Solerilla canto redondo 50x20cm, Pastelones, 1890, Homecenter
+56, Solerilla canto redondo 20x100cm, Pastelones, 2490, Homecenter
+57, Solerilla canto redondo 50x20cm, Pastelones, 990, Homecenter
+58, Solerilla canto redondo 100x20cm, Pastelones, 1890, Homecenter
+59, Solerilla canto redondo 20x100cm, Pastelones, 2380, Homecenter
+60, Solerilla canto redondo 20x53cm, Pastelones, 1290, Homecenter
+61, Adocretos Europa Rojo 8x10.7x22cm, Adocretos, 296, Homecenter
+62, Adocretos Europa Gris 8x10.7x22cm, Adocretos, 330, Homecenter
+63, Adocretos rectos Rojo 6x10x20cm, Adocretos, 1100, Homecenter
+64, Adocretos rectos lisos Gris 6x10x20, Adocretos, 290, Homecenter
+65, Adocesped Maipo 31x31x8cm ,Adocesped, 1990, Homecenter
+66, Adocesped Fulget 31x31x8cm,Adocesped, 1990, Homecenter
+67, Adoquines para cesped 30x44x8cm, Adoquines,1190, Homecener 
+68, Adoquines para cesped 33x33x8cm, Adoquines, 1190, Homecenter
+69, Palmeta para cesped 46x42, Palmetas, 1990, Homecenter
+70, Bloque liso 21 kg 39x14x19cm, BLoques lisos, 1430, Homecenter
+71, Bloque liso 17kg 19x14x19cm, BLoques lisos, 1290, Homecenter
+72, Apoyo de anclaje 64.9kg, Apoyos de Anclaje, 5590, Homecenter
+73, Apoyo de anclaje 25.68kg, Apoyos de Anclaje, 2090, Homecener
+74, Apoyo de anclaje 70kg, Apoyos de Anclaje, 4690, Homecenter
+75, Sidakur 31 gel 1.3kg, Aditivos de reparacion, 11490, Homecenter
+76, Sidakur 31 gel 5kg, Aditivos de reparacion, 11490, Homecenter
+77, Sidakur 32 juego 1.23kg, Aditivos de reparacion, 56870, Homecenter
+78, Sikadur 32 juego 5.5kg, Aditivos de reparacion, 13690, Homecenter
+79, Sikadur 52 juego 1.23, Aditivos de reparacion, 21990, Homecenter
+80, Sika Grount, Aditivos de reparacion, 14110, Homecenter
+81, Colmafix 32 1.23kg, Aditivos de reparacion, 14390, Homecenter
+82, Colmafix 32 5.5, Aditivos de reparacion, 60790, Homecenter
+83, Sika Grount 212 25k, Aditivos de reparacion, 10790, Homecenter
+84, Sika Rep 25k, Aditivos de reparacion, 10790, Homecenter
+85, Sikalisto Repair plus 5kg, Aditivos de reparacion, 3590, Homecenter
+86, Sikalisto Repair plus 15kg, Aditivos de reparacion, 5690, Homecenter
+87, Sikalisto Repair Plus 25kg, Aditivos de reparacion, 11090, Homecenter
+88, Sika mix-A multiuso 5kg, Aditivos de reparacion, 10490, Homecenter
+89, Sika mix-A multiuso 25kg, Aditivos de reparacion, 20990, Homecenter
+90, Anchorfix 300cc, Aditivos de reparacion, 23490
+91, Topex Pegadour - 31 1kg, Aditivos de reparacion, 9760, Homecenter
+92, Escala Articulada 3.6m, Escaleras, 48990, Homecenter
+93, Escala 1.4m, Escaleras, 28990, Homecenter
+94, Escala tijera 1.52m, Escaleras, 56490, Homecenter
+95, Escala tijera 1.87m, Escaleras, 59990, Homecenter
+96, Escala tijera 1.83m, Escaleras, 69990, Homecenter 
+97, Escala tijera 1.82m, Escaleras, 79990, Homecenter
+98, Escala tijera de aluminio 2.40m, Escaleras, 102190, Homecenter
+99, Escala tijera de fibra de viduio 1.96m, Escaleras, 99990, Homecenter
+100, Escala metalica 1m, Escaleras, 39990, Homecenter
+101, Escala de aluminio telescopica 6.4m, Escaleras, 172990, Homecenter
+102, Escala de fibra de vidrio telescopica 6.4m, Escaleras, 69990, Homecenter
+103, Escala de aluminio telescopica 1.27m, Escaleras, 69990, Homecenter
+104, Escala de aluminio telescopica 5.18m, Escaleras, 168990, Homecenter
+105, Sika - 1 Bidon, Aditivos para mezclas, 8690, Homecenter
+106, Sika - 1 Tineta, Aditivos para mezclas, 18490, Homecenter
+107, Sika - 1 Tambor, Aditivos para mezclas, 109990, Homecenter
+108, Sika - 2 Bidon,Aditivos para mezclas, 15590, Homecenter
+109, Sika - 2 Tineta, Aditivos para mezclas, 49990, Homecenter
+110, Sika - 3 Bidon, Aditivos para mezclas, 9690, Homecenter
+111, Sika - 3 Tineta, Aditivos para mezclas, 88190, Homecenter
+112, Sika - 3 Tambor, Aditivos para mezclas, 170790, Homecenter
+113, Sika Latex Bidon, Aditivos para mezclas, 28390, Homecenter
+114, Sika Latex Tineta, Aditivos para mezclas, 88190, Homecenter
+115, Sika latex Tambor, Aditivos para mezclas 445000,Homecenter
+116, Cave II Plug 14kg, Aditivos para mezclas, 88990, Homecenter
+117, Cave II Plug 2kg, Aditivos para mezclas, 11490, Homecenter
+118, Plasmatix 400 251kg, Aditivos para mezclas, 197850, Homecenter
+119, Cave fibras 0,00kg, Aditivos para mezclas, 6990, Homecenter
+120, Topex-1 4,5l, Aditivos para mezclas, 6959, Homecenter
+121, Topex -1 18l, Aditivos para mezclas, 14790, Homecenter
+122, Topex - 3 4,5l, Aditivos para mezclas, 14790, Homecenter
+123, Topex - 3 18l,carl coxAditivos para mezclas, 19990, Homecenter
+124, Topex latex 4.51, Aditivos para mezclas, 21110, Homecenter
+125, Topex latex 18l, Aditivos para mezclas, 70550, Homecener
+126, Igol Primer Tarro 3l, Impermeabilizantes, 13690, Homecenter
+127, Igol Primer Tineta 16l, Impermeabilizantes, 41790, Homecenter
+128, Igol Primer Tambor 18l, Impermeabilizantes, 350000, Homecenter
+129, Sika Igol Denso Tarro 180l, Impermeabilizantes, 12790, Homecenter
+130, Sika igol Denso Tineta 16l, Impermeabilizantes, 42990, Homecenter
+131, Sika igol Denso Tambor 180l, Impermeabilizantes, 330000,Homecenter
+132, Sikatop 107 Monocompatible 20kg, Impermeabilizantes, 19390, Homecenter
+133, Cave Floor Seal-S 3l, Impermeabilizantes, 19190, Homecenter
+134, Sikaplug 20kg, Impermeabilizantes, 40600, Homecenter
+135, Sikaplug 12kg, Impermeabilizantes, 33840, Homecenter
+136, Sikaplug 1.7kg,Impermeabilizantes 7480, Homecenter
+137, Dynal Primer Galon, Impermeabilizantes, 9090, Homecenter
+138, Dynal Primer Tineta, Impermeabilizantes, 34990, Homecenter
+139, Dynal Denso Galon, Impermeabilizantes, 9090, Homecenter
+140, Dynal Denso Tineta,Impermeabilizantes, 34990, Homecenter
+141, Sikamur Inectocream-100 300cc, Impermeabilizantes, 13290, Homecenter
+142, Promotor de adherencia yeso 20kg, Impermeabilizantes, 19990, Homecenter
+145, Cave impermeabilizante 20kg, Impermeabilizantes , 27490, Homecenter
+146, Cave Bond 5kg, Impermeabilizantes, 19780 20kg, Homecenter
+147, Cave II hidraulico 25kg, Impermeabilizantes 5 kg, 65700, Homecenter
+148, Igol 2 acua tineta 17l, Impermeabilizantes ,43290, Homecenter 
+149, Membrana asfaltica mineral 4 kg, Impermeabilizantes
