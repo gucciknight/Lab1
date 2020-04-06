@@ -183,5 +183,20 @@
 184, Cadena acma 4.5m largo 15cm ancho 25cm prof 9.2mm espesor, Pilares, 17890, Homecenter
 185, Escalerilla Diametro 4.2mm Peso 1.39 plastico, Escalerilla, 1990, Homecenter
 186, Malla acma c92, Malla, 14990, Homecenter
-187, Malla acma c-139 
-
+187, Malla acma c-139, Malla, 22310, Homecenter
+188, Malla galvanizada multiproposito 10kg, Malla, 3790, Homecenter
+189, Cerco Acma 3G 5m largo 1.85m ancho, Cercos, 42990, Homecenter
+190, Cerco Galvainzado 1G 3x1.85m, Cercos, 21969, Homecenter
+191, Fierro SAE 1010 de 8mm x 6m, Barras de fierro, 2490, Homecenter
+192, Fierro estirado 12mmx6mx5.33m 5.33kg, Barras de fierro, 590, Homecenter
+193, Fierro estirado 6mmx6mx5.33m 1.33kg, Barras de fierro, 590, Homecenter
+194, Fierro estirado 12mmx6mx5.33m 5.33kg, Barras de fierro, 590, Homecenter
+195, Fierro estirado 8mmx6mx5.33m 2.37kg, Barras de fierro, 590, Homecenter
+196, Fierro estirado 6mmx6mx5.33m 3.70kg, Barras de fierro, 590, Homecenter
+197, Fierro redondos lisos SAE1020 10mmx6m 3.72kg, Barras de fierro, 3990, Homecenter
+198, Fierro redondos lisos SAE1020 12mmx6m 5.34kg, Barras de fierro, 7690, Homecenter
+199, Fierro redondos lisos SAE1020 16mmx6m 9.48kg, Barras de fierro, 11490, Homecenter
+200, Fierro redondos lisos SAE1020 18mmx6m 12kg, Barras de fierro, 16290, Homecenter
+201, Fierro redondos lisos SAE1020 19mmx6m 2.37kg, Barras de fierro, 18090, Homecenter
+202, Fierro redondos lisos SAE1020 22mmx6m 5.34kg, Barras de fierro, 24190, Homecenter
+203, 
