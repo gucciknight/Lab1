@@ -199,4 +199,71 @@
 200, Fierro redondos lisos SAE1020 18mmx6m 12kg, Barras de fierro, 16290, Homecenter
 201, Fierro redondos lisos SAE1020 19mmx6m 2.37kg, Barras de fierro, 18090, Homecenter
 202, Fierro redondos lisos SAE1020 22mmx6m 5.34kg, Barras de fierro, 24190, Homecenter
-203, 
+203, Perfiles tubulares redondos 3/4"x1.5mm 6m largo, Tubos redondos, 3330, Homecenter
+204, Perfiles tubulares redondos 5/8"x1.5mm 6m largo, Tubos redondos, 3190, Homecenter
+205, Perfiles tubulares redondos 7/8"x1.5mm 6m largo, Tubos redondos, 5190, Homecenter
+206, Perfiles tubulares redondos 1"x1.5mm 6m largo, Tubos redondos, 4050, Homecenter
+207, Perfiles tubulares redondos 2"x1.5mm 6m largo, Tubos redondos, 8380, Homecenter
+208, Perfiles tubulares redondos 1 1/2"x1.5mm 6m largo, Tubos redondos, 6500, Homecenter
+209, Perfiles tubulares redondos 1 1/4"x1.5mm 6m largo, Tubos redondos, 5790, Homecenter
+210, Perfiles tubulares redondos 1 3/4"x1.5mm 6m largo, Tubos redondos, 9000, Homecenter
+211, Perfiles tubulares redondos 2 1/2"x1.5mm 6m largo, Tubos redondos, 12400, Homecenter
+212, Perfiles tubulares redondos 2 1/2"x1.5mm 6m largo, Tubos redondos, 5120, Homecenter
+213, Perfiles tubulares redondos 1"x2mm 6m largo, Tubos redondos, 9000, Homecenter
+214, Perfiles tubulares redondos 2"x2mm 6m largo, Tubos redondos, 11190, Homecenter
+215, Perfiles tubulares redondos 3"x2mm 6m largo, Tubos redondos, 19290, Homecenter
+216, Perfiles tubulares redondos 1 1/4"x2mm 6m largo, Tubos redondos, 8490, Homecenter
+217, Fierros cuadrados lisos 10mm ancho 6m largo 4.74kg, Fierros cuadrados, 6990, Homecenter
+218, Fierros cuadrados lisos 12mm ancho 6m largo 6.78kg, Fierros cuadrados, 9690, Homecenter
+219, Planos laminados en caliente 12x3mm 6m largo 1.69kg, Fierros cuadrados, 1500, Homecenter
+220, Planos laminados en caliente 16x3mm 6m largo 2.26kg, Fierros cuadrados, 1870, Homecenter
+221, Planos laminados en caliente 20x3mm 6m largo 2.82kg, Fierros cuadrados, 2345, Homecenter
+222, Planos laminados en caliente 25x3mm 6m largo 3.53kg, Fierros cuadrados, 2620, Homecenter
+223, Planos laminados en caliente 32x3mm 6m largo 4.52kg, Fierros cuadrados, 2910, Homecenter
+224, Planos laminados en caliente 50x3mm 6m largo 7.08kg, Fierros cuadrados, 5260, Homecenter
+225, Planos laminados en caliente 25x5mm 6m largo 5.88kg, Fierros cuadrados, 5100, Homecenter
+226, Planos laminados en caliente 50x5mm 6m largo 11.76kg, Fierros cuadrados, 8750, Homecenter
+227, Perfiles cuadrados 15x15x1.0mm 6m largo, Fierros cuadrados, 2200, Homecenter
+228, Perfiles cuadrados 20x20x1.0mm 6m largo, Fierros cuadrados, 2897, Homecenter
+229, Perfiles cuadrados 15x15x1.5mm 6m largo, Fierros cuadrados, 2996, Homecenter
+230, Perfiles cuadrados 20x20x1.5mm 6m largo, Fierros cuadrados, 3860, Homecenter
+231, Sikarep 25 kg, Cementos, 11990, Konstruyendo.com
+232, Cemento corriente 1pallet, Cementos, 185600,Konstruyendo.com
+233, Yeso espuma romeral 25kg, Cementos, 4120, Konstruyendo.com
+234, Masilla liviana magica blanda, Cementos,25560, Konstruyendo.com
+235, igol primer 3l, Cementos, 12460, Konstruyendo.com
+236, Sikadur 32 gel juego 5kg AB, Cementos, 65800, Konstruyendo.com
+237, Igol Denso 3l, Cementos, 11940, Konstruyendo.com
+238, Revestimiento maquillaje 25kg, Cementos, 5890, Konstruyendo.com
+239, Cemento 25kg, Cementos, 3000, Konstruyendo.com
+240, Tierra de color zul primavera 1kg, Cementos, 3290, Konstruyendo.com
+241, cemento corriente 25kg, Cementos, 3140, Konstruyendo.com
+242, Sika latex tambor 200lt, Cementos, 557300, Konstruyendo.com
+243, Sikadur-52 1kg, Cementos, 16730, Konstruyendo.com
+244, WD-40 155 GR, Cementos, 3700, Konstruyendo.com
+245, Tierra de color rojo primavera 1kg, Cementos, 3160, Konstruyendo.com
+246, Cemento especial cbb 25kg, Cementos, 3160, Konstruyendo.com
+247, Sika latex, 4.5kg,Cementos, 23420, Konstruyendo.com
+248, Igol primer 3lt, Cementos, 12460, Konstruyendo.com
+249, Igol denso 213, 25kg, Cementos, 10900, Konstruyendo.com
+250, Saco de semento 25kg, Cementos, 3290, Konstruyendo.com
+251, Limpia contacto lotite sf 7647,Cementos, 7070, Konstruyendo.com
+252, Sikgrout 214 25kg, Cementos, 10900, Konstruyendo.com
+253, Sikadur 32 gel 1kg, Cementos, 12930, Konstruyendo.com
+254, Sika 2 4.5lt, Cementos, 15060, Konstruyendo.com
+255, Sikadur 32 gel juego 5kg, Cementos, 65800, Konstruyendo.com
+256, Antisol tambor 200lt, Cementos, 264180, Konstruyendo.com
+257, Revestimiento maquillaje 25kg, Cementos, 5890, Konstruyendo.com
+258, Cemento 25kg, Cementos, 3000, Konstruyendo.com
+259, Adhesivo en pasta Ac 6kg, Pegamentos, 4700, Konstruyendo.com
+260, Agorex-60 1/32gl, Pegamentos, 2380, Konstruyendo
+261, Loctite 271 trabapernos 50cc, Pegamentos, 25190, Konstruyendo.com
+262, Adhesivo de montaje agorex, Pegamentos, 4500, Konstruyendo.com
+263, Adhesivo en pasta AC 1kg, Selladores, 1690, Konstruyendo.com
+264, Agorex silicona 700 Blanco, Selladores, 4250, Konstruyendo.com
+265, Siliona alta temperatura roja, Selladores, 6120, Konstruyendo.com
+266, Agorex espuma expansiva 750ml, Selladores, 8320, Konstruyendo.com
+257, Sellador acrilico Pintable 360, Selladores, 1940, Konstruyendo.com
+258, Agorex tapagoteras 4.5kg, Selladores, 29310, Konstruyendo.com
+259, Agorex sellante acrilico 600, Selladores, 3530, Konstruyendo.com
+260, Silicona Blanca pintable 310ml, Selladores, 1140, Konstruyendo.com
