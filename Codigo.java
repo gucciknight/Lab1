@@ -25,9 +25,9 @@ class Conversor{
     int TotalDeCoincidencias;
     String Descripcion;
     String Categoria;
-    String Precio;
+    int Precio;
     // metodo para buscar palabras tanto descripcion como precio como categoria
-    public static void BuscarPalabra(File archivo, String Descripcion) {
+    public static void BuscarPalabra(File archivo, String palabra) {
     	try {
     		if(archivo.exists()) {
     			BufferedReader LeerArchivo = new BufferedReader(new FileReader("Productos de Construccion.txt"));
@@ -36,7 +36,7 @@ class Conversor{
     				LineasTotales = LineasTotales + 1;
     				String[] palabras = LineaLeida.split(" ");
     				for(int z = 0; z < palabras.length; z++) {
-    					if(palabras[z].equals(Descripcion)) {
+    					if(palabras[z].equals(palabra)) {
     						TotalDeCoincidencias = TotalDeCoincidencia + 1;
     						System.out.println(LineaLeida+"\n"
     								+ "En la linea "+ LineasTotales +" se encontro la palabra "+ TotalDeCoincidencias +" veces");
@@ -92,11 +92,24 @@ class Conversor{
         	case(1):
         		System.out.println("Ingrese la Descripcion del producto");
         		Descripcion = X.readLine();
-        		BuscarPalabra(archivo, Descripcion);
+        		palabra = Descripcion;
+        		BuscarPalabra(archivo, palabra);
+        		Lectura.close();
         		break;
         	case(2):
+        		System.out.println("Ingrese la Categoria del producto");
+        		Categoria = X.readLine();
+        		palabra = Categoria;
+        		BuscarPalabra(archivo, palabra);
+        		Lectura.close();
         		break;
         	case(3):
+        		System.out.println("Ingrese el Precio del producto");
+        		entrada = X.readLine();
+        		Precio = Integer.parseInt(entrada);
+        		palabra = Precio;
+        		BuscarPalabra(archivo, palabra);
+        		Lectura.close();
         		break;
         	}
             break;
