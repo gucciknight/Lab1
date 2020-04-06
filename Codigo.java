@@ -3,11 +3,12 @@ import java.utils.ArrayList;
 class Conversor{
     public static void main(String [] args) throws IOException{
     BufferedReader X = new BufferedReader(new InputStreamReader(System.in));
-    //categorias son 3 Descripcion | Categoria | Precio
+    //categorias son 3 Descripcion | Categoria | Precio | Local
     File archivo = new File("Productors de Construccion.txt");
     FileWriter Escritura = new FileWriter("Productors de Construccion.txt");
     FileReader Lectura = new FileReader("Productors de Construccion.txt");
-    String[] ListadoyDescripcion = new String[2];
+    //SE ARREGLO PARA QUE SE PUEDAN INGRESAR LOS 4 TIPOS DE DATOS
+    String[] ListadoyDescripcion = new String[3];
     int[] Precio = new int[0];
     System.out.println("Systema de datos comerciales \n"+
     "En nuestro menu le damos a ingresar las siguientes opciones\n"+
@@ -72,6 +73,7 @@ class Conversor{
         	entrada = X.readLine();
         	Desicion = Integer.parseInt(entrada);
         	if (Desicion == 1) {
+        		// NO ENCUENTRO COMO PODER BUSCAR EL ID DENTRO DE LA BASE DE DATOS ES DECIR SU POSICION.
         		archivo.write(IDMAX + 1,",",ListadoyDescripcion[0],",",ListadoyDescripcion[1],",",ListadoyDescripcion[2]);
         	}else {
         		System.out.println("Ha eliminado todos los datos ingresados");
@@ -79,7 +81,7 @@ class Conversor{
         	Escritura.close();
             break;
         case(2):
-        	//caso 2 Terminar metodo para poder ingresar busquedas
+        	//METODO BUSCAR PALABRA PARA BUSCAR PALABRAS EN ESPECIFICO
         	archivo.canRead(true);
         	System.out.println("Ha ingresado la opcion para Buscar Datos\n"
         			+ "Ingrese la opcion por como desea realizar la busqueda\n"
