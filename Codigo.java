@@ -27,6 +27,7 @@ class Conversor{
     String Descripcion;
     String Categoria;
     int Precio;
+    String ID;
     // metodo para buscar palabras tanto descripcion como precio como categoria
     public static void BuscarPalabra(File archivo, String palabra) {
     	try {
@@ -116,6 +117,31 @@ class Conversor{
         	}
             break;
         case(3):
+        	//Eliminacion de datos
+        	archivo.canRead(true);
+        	System.out.println("Ha ingresado a la opcion para Borrar datos por lo que debe ingresar el dato a eliminar\n"
+        			+ "1.- Ingrese la Descripcion\n"
+        			+ "2.- Ingrese ID");
+        	entrada = X.readLine();
+        	option = Integer.parseInt(entrada);
+        	switch(option) {
+        	//OPCION POR DESCRIPCION
+        		case(1):
+        			System.out.println("Ingrese la Descripcion del Producto");
+	        		Descripcion = X.readLine();
+	        		palabra = Descripcion;
+	        		BuscarPalabra(archivo, palabra);
+	        		Lectura.close();
+        			break;
+            //OPCION POR ID
+        		case(2):
+        			System.out.println("Ingrese el ID del Producto");
+	        		ID = X.readLine();
+	        		palabra = ID;
+	        		BuscarPalabra(archivo, palabra);
+	        		Lectura.close();
+        			break;
+        	}
             break;
     }
     }}
