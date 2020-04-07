@@ -1,5 +1,5 @@
 import java.io.*;
-import java.utils.ArrayList;
+import java.util.ArrayList;
 class Conversor{
     public static void main(String [] args) throws IOException{
     BufferedReader X = new BufferedReader(new InputStreamReader(System.in));
