@@ -6,7 +6,7 @@ public class Laboratorio1{
     public static void main(String[] args){
         String mensaje = "Trabajo 1 de laboratorio", autor = "Agustín Rodríguez, Aldo Villanueva y Daniel Durán";
         String msg1, msg2, msg3;
-        boolean parar=true;
+        boolean parar = true;
         int seleccionado;
         Bienvenida bvda2 = new Bienvenida(mensaje, autor);
         bvda2.muestramensaje();
@@ -25,6 +25,8 @@ public class Laboratorio1{
           case(2): parar = false;
           break;
           case(3): parar = false;
+          break;
+          default: JOptionPane.showMessageDialog(null, "Ingrese Solo Opciones Validas", "Error de Ingreso", JOptionPane.PLAIN_MESSAGE);
           break;
           }
         } while(parar);
