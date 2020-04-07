@@ -1,6 +1,9 @@
 import java.io.IOException;
 import javax.swing.JOptionPane;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
+
 public class Laboratorio1{
 
     public static void main(String[] args){
@@ -55,7 +58,7 @@ public class Laboratorio1{
           seleccionado3 = otrasFunciones.selecciona(msg7, msg8, msg9, msg10);
           switch(seleccionado3) {
             //encontrar pos valor mayor
-            case(1): parar = false;
+            case(1): System.out.println("hola");
             break;
             //encontrar pos valor menor
             case(2): parar = false;

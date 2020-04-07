@@ -15,7 +15,7 @@ public class BuscarDato {
         String Categoria;
         int Precio;
         String Local;
-        File archivo = new File("C:/Users/Alduxo/Documents/GitHub/Lab1/Productos de Construccion .txt");
+        File archivo = new File("./Productos de Construccion .txt");
 
         System.out.println("Que tipo de busqueda desea hacer:\n"+
                 "1-Busqueda por ID?\n"+
@@ -27,13 +27,13 @@ public class BuscarDato {
         if (opcion == 1){
             System.out.println("Ingrese el ID del producto:");
                 String palabra = br.readLine();
-            buscarPalabra(archivo, palabra);                
+            buscarPalabra(archivo, palabra);
         }
 
 
     }
     public static void buscarPalabra(File archivo, String palabra) {
-        
+
         try {
             // SI EXISTE EL ARCHIVO
             if(archivo.exists()) {
