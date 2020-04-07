@@ -1,0 +1,269 @@
+// ID, Descripcion ,Categoria,	Precio_unitario_pesos , local
+1, Pega bloques de vidrio 5kg, Pegamentos, 4990, Homecenter 
+2 Pega bloques de vidrios 15kg, Pegamentos, 14990, Homecenter 
+3, Morteros de reparacion 5kg, Cementos, 3990, Homecenter 
+4, Morteros de reparacion 15kg, Cementos, 8630, Homecenter 
+5, Estuco termico	20kg, Cementos, 9990, Homecenter 
+6, Estuco interior 25kg, Cementos, 2690, Homecenter 
+7, Estuco exterior 25kg, Cementos, 2690, Homecenter 
+8, Hormigon preparado 25kg, Cementos, 2690, Homecenter 
+9, Nivelador de pisos 25kg, Cementos, 8990, Homecenter 
+10,	Mortero Piso, 25kg Cementos, 2690, Homecenter 
+11,	Hormigon Rapido, 25kg Cementos, 6490, Homecenter 
+12,	Mortero anclaje & nivelacion 25kg, Cementos, 11290, Homecenter
+13,	Mortero pega, 25kg Cementos, 2795, Homecenter 
+14,	Mortero Color (negro) 20kg, Cementos, 15990, Homecenter 
+15,	Mortero Color (rojo) 20kg, Cementos, 15990, Homecenter
+16,	Mortero Color (ocre) 20kg, Cementos, 15990, Homecenter
+17,	Mortero Color (gris) 20kg, Cementos, 15990, Homecenter
+18,	Cemento gris 1kg, Cementos, 490, Homecenter 
+19,	Cemento gris 5kg, Cementos, 2290, Homecenter 
+20,	Cemento para refractario 1kg, Cementos, 8090, Homecenter
+21, Yeso espuma 25kg, Yesos, 3980, Homecenter 
+22, Yeos express 25kg, Yesos, 3980 , Homecenter 
+23, Cal Hidraulica 25kg, Cales,4920, Homecenter 
+24, cal pintaca; de 25kg, Cales,4690, Homecenter 
+25, Cal cica de 1 kg, 1490, Cales, Homecenter 
+26, Tierras de color(amarillo) 1kg,Tierras , 2490, Homecenter 
+27, Tierras de color(Rojo) 1kg, Tierras, 2490, Homecenter 
+28, Tierras de color(azul) 1kg, Tierras, 6590, Homecenter 
+29, Tierras de color(Rojo) 1kg, Tierras, 3690, Homecenter
+30, Masilla base 25kg, Masillas, 15390, Homecenter 
+31, Masilla base para juntas, Masillas, 5290, Homecenter 
+32, Ladrillo super 7 2.7 Kg, Ladrillos, 290, Homecenter 
+33, Ladrillo Super 9 3.5kg, Ladrillos, 690, Homecenter 
+34, Ladrillo Super 11 4.3kg, Ladrillos, 990, Homecenter
+35, Ladrillo Titan 3kg , Ladrillos, 290, Homecenter 
+36, Ladrillo Condor 2.4Kg, Ladrillos, 290, Homecenter 
+37, Ladrillo Super condor 3.2kg, Ladrillos, 490, Homecenter 
+38, Ladrillo Fiscal 3.5kg, Ladrillos, 150, Homecenter 
+39, Ladrillo Chapa 5.95kg 20 unid, Ladrillos, 9290, Homecenter
+40, Ladrillo Fachada Isa 7.85kg 12 unid,Ladrillos, 8120, Homecenter 
+41, Ladrillo Estrada 7.85kg 12 unid, Ladrillos, 8890, Homecenter 
+42, Ladrillo Baston 8.55 16 unid,Ladrillos, 5490, Homecenter
+43, Ladrillo Recto 9.1kg 3 unid, Ladrillos, 6190, Homecenter
+44, Ladrillo Tablilla 10.2Kg 6 unid, Ladrillos, 7990, Homecenter
+45, Arena fina 25kg, Aridos, 920, Homecenter 
+46, Arena gruesa 25kg, Aridos, 940, Homecenter 
+47, Gravilla 25kg, Aridos, 946, Homecenter 
+48, Pastelon liso 40x40cm, Pastelones, 1990, Homecenter
+49, Piedra de Maipo 40x40cm, Pastelones, 2190, Homecenter
+50, Pastelon gris 40x40cm, Pastelones,1690, Homecenter
+51, Pastelon gris 300 Granal 40x40cm, Pastelones, 2690, Homecenter
+52, Pastelon granitico 40x40cm, Pastelones, 5390, Homecenter
+53, Pastelon grano Fulget 40x40cm, Pastelones, 2290, Homecenmter
+54, Pastelon gris 300 pulido 40x40cm, Pastelones, 3290, Homecenter
+55, Pastelon piedra 40x40cm, Pastelones, 3490, Homecenter
+56, Solerilla canto redondo 20x100cm, Pastelones, 2490, Homecenter
+57, Solerilla canto redondo 50x20cm, Pastelones, 990, Homecenter
+58, Solerilla canto redondo 100x20cm, Pastelones, 1890, Homecenter
+59, Solerilla canto redondo 20x100cm, Pastelones, 2380, Homecenter
+60, Solerilla canto redondo 20x53cm, Pastelones, 1290, Homecenter
+61, Adocretos Europa Rojo 8x10.7x22cm, Adocretos, 296, Homecenter
+62, Adocretos Europa Gris 8x10.7x22cm, Adocretos, 330, Homecenter
+63, Adocretos rectos Rojo 6x10x20cm, Adocretos, 1100, Homecenter
+64, Adocretos rectos lisos Gris 6x10x20, Adocretos, 290, Homecenter
+65, Adocesped Maipo 31x31x8cm ,Adocesped, 1990, Homecenter
+66, Adocesped Fulget 31x31x8cm,Adocesped, 1990, Homecenter
+67, Adoquines para cesped 30x44x8cm, Adoquines,1190, Homecener 
+68, Adoquines para cesped 33x33x8cm, Adoquines, 1190, Homecenter
+69, Palmeta para cesped 46x42, Palmetas, 1990, Homecenter
+70, Bloque liso 21 kg 39x14x19cm, BLoques lisos, 1430, Homecenter
+71, Bloque liso 17kg 19x14x19cm, BLoques lisos, 1290, Homecenter
+72, Apoyo de anclaje 64.9kg, Apoyos de Anclaje, 5590, Homecenter
+73, Apoyo de anclaje 25.68kg, Apoyos de Anclaje, 2090, Homecener
+74, Apoyo de anclaje 70kg, Apoyos de Anclaje, 4690, Homecenter
+75, Sidakur 31 gel 1.3kg, Aditivos de reparacion, 11490, Homecenter
+76, Sidakur 31 gel 5kg, Aditivos de reparacion, 11490, Homecenter
+77, Sidakur 32 juego 1.23kg, Aditivos de reparacion, 56870, Homecenter
+78, Sikadur 32 juego 5.5kg, Aditivos de reparacion, 13690, Homecenter
+79, Sikadur 52 juego 1.23, Aditivos de reparacion, 21990, Homecenter
+80, Sika Grount, Aditivos de reparacion, 14110, Homecenter
+81, Colmafix 32 1.23kg, Aditivos de reparacion, 14390, Homecenter
+82, Colmafix 32 5.5, Aditivos de reparacion, 60790, Homecenter
+83, Sika Grount 212 25k, Aditivos de reparacion, 10790, Homecenter
+84, Sika Rep 25k, Aditivos de reparacion, 10790, Homecenter
+85, Sikalisto Repair plus 5kg, Aditivos de reparacion, 3590, Homecenter
+86, Sikalisto Repair plus 15kg, Aditivos de reparacion, 5690, Homecenter
+87, Sikalisto Repair Plus 25kg, Aditivos de reparacion, 11090, Homecenter
+88, Sika mix-A multiuso 5kg, Aditivos de reparacion, 10490, Homecenter
+89, Sika mix-A multiuso 25kg, Aditivos de reparacion, 20990, Homecenter
+90, Anchorfix 300cc, Aditivos de reparacion, 23490
+91, Topex Pegadour - 31 1kg, Aditivos de reparacion, 9760, Homecenter
+92, Escala Articulada 3.6m, Escaleras, 48990, Homecenter
+93, Escala 1.4m, Escaleras, 28990, Homecenter
+94, Escala tijera 1.52m, Escaleras, 56490, Homecenter
+95, Escala tijera 1.87m, Escaleras, 59990, Homecenter
+96, Escala tijera 1.83m, Escaleras, 69990, Homecenter 
+97, Escala tijera 1.82m, Escaleras, 79990, Homecenter
+98, Escala tijera de aluminio 2.40m, Escaleras, 102190, Homecenter
+99, Escala tijera de fibra de viduio 1.96m, Escaleras, 99990, Homecenter
+100, Escala metalica 1m, Escaleras, 39990, Homecenter
+101, Escala de aluminio telescopica 6.4m, Escaleras, 172990, Homecenter
+102, Escala de fibra de vidrio telescopica 6.4m, Escaleras, 69990, Homecenter
+103, Escala de aluminio telescopica 1.27m, Escaleras, 69990, Homecenter
+104, Escala de aluminio telescopica 5.18m, Escaleras, 168990, Homecenter
+105, Sika - 1 Bidon, Aditivos para mezclas, 8690, Homecenter
+106, Sika - 1 Tineta, Aditivos para mezclas, 18490, Homecenter
+107, Sika - 1 Tambor, Aditivos para mezclas, 109990, Homecenter
+108, Sika - 2 Bidon,Aditivos para mezclas, 15590, Homecenter
+109, Sika - 2 Tineta, Aditivos para mezclas, 49990, Homecenter
+110, Sika - 3 Bidon, Aditivos para mezclas, 9690, Homecenter
+111, Sika - 3 Tineta, Aditivos para mezclas, 88190, Homecenter
+112, Sika - 3 Tambor, Aditivos para mezclas, 170790, Homecenter
+113, Sika Latex Bidon, Aditivos para mezclas, 28390, Homecenter
+114, Sika Latex Tineta, Aditivos para mezclas, 88190, Homecenter
+115, Sika latex Tambor, Aditivos para mezclas 445000,Homecenter
+116, Cave II Plug 14kg, Aditivos para mezclas, 88990, Homecenter
+117, Cave II Plug 2kg, Aditivos para mezclas, 11490, Homecenter
+118, Plasmatix 400 251kg, Aditivos para mezclas, 197850, Homecenter
+119, Cave fibras 0,00kg, Aditivos para mezclas, 6990, Homecenter
+120, Topex-1 4,5l, Aditivos para mezclas, 6959, Homecenter
+121, Topex -1 18l, Aditivos para mezclas, 14790, Homecenter
+122, Topex - 3 4,5l, Aditivos para mezclas, 14790, Homecenter
+123, Topex - 3 18l,carl coxAditivos para mezclas, 19990, Homecenter
+124, Topex latex 4.51, Aditivos para mezclas, 21110, Homecenter
+125, Topex latex 18l, Aditivos para mezclas, 70550, Homecener
+126, Igol Primer Tarro 3l, Impermeabilizantes, 13690, Homecenter
+127, Igol Primer Tineta 16l, Impermeabilizantes, 41790, Homecenter
+128, Igol Primer Tambor 18l, Impermeabilizantes, 350000, Homecenter
+129, Sika Igol Denso Tarro 180l, Impermeabilizantes, 12790, Homecenter
+130, Sika igol Denso Tineta 16l, Impermeabilizantes, 42990, Homecenter
+131, Sika igol Denso Tambor 180l, Impermeabilizantes, 330000,Homecenter
+132, Sikatop 107 Monocompatible 20kg, Impermeabilizantes, 19390, Homecenter
+133, Cave Floor Seal-S 3l, Impermeabilizantes, 19190, Homecenter
+134, Sikaplug 20kg, Impermeabilizantes, 40600, Homecenter
+135, Sikaplug 12kg, Impermeabilizantes, 33840, Homecenter
+136, Sikaplug 1.7kg,Impermeabilizantes 7480, Homecenter
+137, Dynal Primer Galon, Impermeabilizantes, 9090, Homecenter
+138, Dynal Primer Tineta, Impermeabilizantes, 34990, Homecenter
+139, Dynal Denso Galon, Impermeabilizantes, 9090, Homecenter
+140, Dynal Denso Tineta,Impermeabilizantes, 34990, Homecenter
+141, Sikamur Inectocream-100 300cc, Impermeabilizantes, 13290, Homecenter
+142, Promotor de adherencia yeso 20kg, Impermeabilizantes, 19990, Homecenter
+145, Cave impermeabilizante 20kg, Impermeabilizantes , 27490, Homecenter
+146, Cave Bond 5kg, Impermeabilizantes, 19780 20kg, Homecenter
+147, Cave II hidraulico 25kg, Impermeabilizantes 5 kg, 65700, Homecenter
+148, Igol 2 acua tineta 17l, Impermeabilizantes ,43290, Homecenter 
+149, Membrana asfaltica mineral 4 kg, Impermeabilizantes, 71190, Homecenter
+150, JD2 plusAL 1x10m,Impermeabilizantes, 69290,Homecenter
+151, JD2 plus 1x10m,Impermeabilizantes, 59890, Homecenter
+152, Dynalam 1x10m, Impermeabilizantes, 59890, Homecenter
+153, Jd2 plus arena 1x10m, Impermeabilizantes, 67390, Homecenter
+154, Dinag AR k 4 1x10m, Impermeabilizantes, 18990,Homecenter
+155, Dinag AR 4 k 1x10m 68990, Impermeabilizantes, 68990, Homecenter
+156, Impermeabilizante asfaltico RA-85 16kg, Impermeabilizantes, 37990,Homecenter
+157, Impermeabilizante asfaltico RA-85 50kg, Impermeabilizantes, 89990, Homecenter
+158, Membrana asfatica, Impermeabilizantes, 33790, Homecenter
+159, Carbolineo 1 galon, Impermeabilizantes, 15890,Homecenter
+160, carbolineo 1 17l,Impermeabilizantes,53890, Homecenter
+161, Dynealeum L 1 galon, Impermeabilizantes, 15390, Homecenter
+162, Dynaleum L 17l,Impermeabilizantes, 53890, Homecenter
+163, Igol Flex 3kg, Impermeabilizantes, 25590, Homecenter
+164, Topex desmoldante madera 4.51l, Desmoldantes, 17190, Homecenter
+165, Topex desmoldante madera 16l, Desmoldantes, 56590, Homecenter
+166, Topex desmoldante metal 4,5l, Desmoldantes, 12800, Homecenter
+167, Topex desmoldante metal 16l, Desmoldantes, 40110, Homecenter
+168, Sikaform Madera 200l, Desmoldantes, 450000, Homecenter
+169, Sikaform Metal 16l, Desmoldantes, 47190, Homecenter
+170, Sikaform Metal 200l, Desmoldantes, 350000, Homecenter
+171, Sika Separol acqua 17l, Desmoldantes, 44590, Homecenter
+172, Topex no-sol 4.5l, Membranas de curado, 10020, Homecenter
+173, ToTopex no-sol 18l, Membranas de curado, 29490, Homecenter
+174, Sika Antisol 4.5l, Membranas de curado, 11790, Homecenter
+175, Sika Antisol 18l, Membranas de curado, 34690, Homecenter
+176, Sika Antisol 200l, Membranas de curado, 220000, Homecenter
+177, Pilar acma 2.5m largo 15cm ancho 15cm prof 8mm espesor, Pilares, 7990, Homecenter
+178, Pilar acma 3m largo 15cm ancho 15cm prof 8mm espesor, Pilares, 4930, Homecenter
+179, Pilar acma 3.4m largo 15cm ancho 15cm prof 9.2mm espesor, Pilares, 9390, Homecenter
+180, Pilar acma 3.4m largo 15cm ancho 20cm prof 9.2mm espesor, Pilares, 14790, Homecenter
+181, Cadena acma 4.5m largo 15cm ancho 20cm prof 8mm espesor, Pilares, 18990, Homecenter
+182, Cadena acma 4.5m largo 15cm ancho 20cm prof 9.2mm espesor, Pilares, 17690, Homecenter
+183, Cadena acma 4.5m largo 15cm ancho 30cm prof 9.2mm espesor, Pilares, 16490, Homecenter
+184, Cadena acma 4.5m largo 15cm ancho 25cm prof 9.2mm espesor, Pilares, 17890, Homecenter
+185, Escalerilla Diametro 4.2mm Peso 1.39 plastico, Escalerilla, 1990, Homecenter
+186, Malla acma c92, Malla, 14990, Homecenter
+187, Malla acma c-139, Malla, 22310, Homecenter
+188, Malla galvanizada multiproposito 10kg, Malla, 3790, Homecenter
+189, Cerco Acma 3G 5m largo 1.85m ancho, Cercos, 42990, Homecenter
+190, Cerco Galvainzado 1G 3x1.85m, Cercos, 21969, Homecenter
+191, Fierro SAE 1010 de 8mm x 6m, Barras de fierro, 2490, Homecenter
+192, Fierro estirado 12mmx6mx5.33m 5.33kg, Barras de fierro, 590, Homecenter
+193, Fierro estirado 6mmx6mx5.33m 1.33kg, Barras de fierro, 590, Homecenter
+194, Fierro estirado 12mmx6mx5.33m 5.33kg, Barras de fierro, 590, Homecenter
+195, Fierro estirado 8mmx6mx5.33m 2.37kg, Barras de fierro, 590, Homecenter
+196, Fierro estirado 6mmx6mx5.33m 3.70kg, Barras de fierro, 590, Homecenter
+197, Fierro redondos lisos SAE1020 10mmx6m 3.72kg, Barras de fierro, 3990, Homecenter
+198, Fierro redondos lisos SAE1020 12mmx6m 5.34kg, Barras de fierro, 7690, Homecenter
+199, Fierro redondos lisos SAE1020 16mmx6m 9.48kg, Barras de fierro, 11490, Homecenter
+200, Fierro redondos lisos SAE1020 18mmx6m 12kg, Barras de fierro, 16290, Homecenter
+201, Fierro redondos lisos SAE1020 19mmx6m 2.37kg, Barras de fierro, 18090, Homecenter
+202, Fierro redondos lisos SAE1020 22mmx6m 5.34kg, Barras de fierro, 24190, Homecenter
+203, Perfiles tubulares redondos 3/4"x1.5mm 6m largo, Tubos redondos, 3330, Homecenter
+204, Perfiles tubulares redondos 5/8"x1.5mm 6m largo, Tubos redondos, 3190, Homecenter
+205, Perfiles tubulares redondos 7/8"x1.5mm 6m largo, Tubos redondos, 5190, Homecenter
+206, Perfiles tubulares redondos 1"x1.5mm 6m largo, Tubos redondos, 4050, Homecenter
+207, Perfiles tubulares redondos 2"x1.5mm 6m largo, Tubos redondos, 8380, Homecenter
+208, Perfiles tubulares redondos 1 1/2"x1.5mm 6m largo, Tubos redondos, 6500, Homecenter
+209, Perfiles tubulares redondos 1 1/4"x1.5mm 6m largo, Tubos redondos, 5790, Homecenter
+210, Perfiles tubulares redondos 1 3/4"x1.5mm 6m largo, Tubos redondos, 9000, Homecenter
+211, Perfiles tubulares redondos 2 1/2"x1.5mm 6m largo, Tubos redondos, 12400, Homecenter
+212, Perfiles tubulares redondos 2 1/2"x1.5mm 6m largo, Tubos redondos, 5120, Homecenter
+213, Perfiles tubulares redondos 1"x2mm 6m largo, Tubos redondos, 9000, Homecenter
+214, Perfiles tubulares redondos 2"x2mm 6m largo, Tubos redondos, 11190, Homecenter
+215, Perfiles tubulares redondos 3"x2mm 6m largo, Tubos redondos, 19290, Homecenter
+216, Perfiles tubulares redondos 1 1/4"x2mm 6m largo, Tubos redondos, 8490, Homecenter
+217, Fierros cuadrados lisos 10mm ancho 6m largo 4.74kg, Fierros cuadrados, 6990, Homecenter
+218, Fierros cuadrados lisos 12mm ancho 6m largo 6.78kg, Fierros cuadrados, 9690, Homecenter
+219, Planos laminados en caliente 12x3mm 6m largo 1.69kg, Fierros cuadrados, 1500, Homecenter
+220, Planos laminados en caliente 16x3mm 6m largo 2.26kg, Fierros cuadrados, 1870, Homecenter
+221, Planos laminados en caliente 20x3mm 6m largo 2.82kg, Fierros cuadrados, 2345, Homecenter
+222, Planos laminados en caliente 25x3mm 6m largo 3.53kg, Fierros cuadrados, 2620, Homecenter
+223, Planos laminados en caliente 32x3mm 6m largo 4.52kg, Fierros cuadrados, 2910, Homecenter
+224, Planos laminados en caliente 50x3mm 6m largo 7.08kg, Fierros cuadrados, 5260, Homecenter
+225, Planos laminados en caliente 25x5mm 6m largo 5.88kg, Fierros cuadrados, 5100, Homecenter
+226, Planos laminados en caliente 50x5mm 6m largo 11.76kg, Fierros cuadrados, 8750, Homecenter
+227, Perfiles cuadrados 15x15x1.0mm 6m largo, Fierros cuadrados, 2200, Homecenter
+228, Perfiles cuadrados 20x20x1.0mm 6m largo, Fierros cuadrados, 2897, Homecenter
+229, Perfiles cuadrados 15x15x1.5mm 6m largo, Fierros cuadrados, 2996, Homecenter
+230, Perfiles cuadrados 20x20x1.5mm 6m largo, Fierros cuadrados, 3860, Homecenter
+231, Sikarep 25 kg, Cementos, 11990, Konstruyendo.com
+232, Cemento corriente 1pallet, Cementos, 185600,Konstruyendo.com
+233, Yeso espuma romeral 25kg, Cementos, 4120, Konstruyendo.com
+234, Masilla liviana magica blanda, Cementos,25560, Konstruyendo.com
+235, igol primer 3l, Cementos, 12460, Konstruyendo.com
+236, Sikadur 32 gel juego 5kg AB, Cementos, 65800, Konstruyendo.com
+237, Igol Denso 3l, Cementos, 11940, Konstruyendo.com
+238, Revestimiento maquillaje 25kg, Cementos, 5890, Konstruyendo.com
+239, Cemento 25kg, Cementos, 3000, Konstruyendo.com
+240, Tierra de color zul primavera 1kg, Cementos, 3290, Konstruyendo.com
+241, cemento corriente 25kg, Cementos, 3140, Konstruyendo.com
+242, Sika latex tambor 200lt, Cementos, 557300, Konstruyendo.com
+243, Sikadur-52 1kg, Cementos, 16730, Konstruyendo.com
+244, WD-40 155 GR, Cementos, 3700, Konstruyendo.com
+245, Tierra de color rojo primavera 1kg, Cementos, 3160, Konstruyendo.com
+246, Cemento especial cbb 25kg, Cementos, 3160, Konstruyendo.com
+247, Sika latex, 4.5kg,Cementos, 23420, Konstruyendo.com
+248, Igol primer 3lt, Cementos, 12460, Konstruyendo.com
+249, Igol denso 213, 25kg, Cementos, 10900, Konstruyendo.com
+250, Saco de semento 25kg, Cementos, 3290, Konstruyendo.com
+251, Limpia contacto lotite sf 7647,Cementos, 7070, Konstruyendo.com
+252, Sikgrout 214 25kg, Cementos, 10900, Konstruyendo.com
+253, Sikadur 32 gel 1kg, Cementos, 12930, Konstruyendo.com
+254, Sika 2 4.5lt, Cementos, 15060, Konstruyendo.com
+255, Sikadur 32 gel juego 5kg, Cementos, 65800, Konstruyendo.com
+256, Antisol tambor 200lt, Cementos, 264180, Konstruyendo.com
+257, Revestimiento maquillaje 25kg, Cementos, 5890, Konstruyendo.com
+258, Cemento 25kg, Cementos, 3000, Konstruyendo.com
+259, Adhesivo en pasta Ac 6kg, Pegamentos, 4700, Konstruyendo.com
+260, Agorex-60 1/32gl, Pegamentos, 2380, Konstruyendo
+261, Loctite 271 trabapernos 50cc, Pegamentos, 25190, Konstruyendo.com
+262, Adhesivo de montaje agorex, Pegamentos, 4500, Konstruyendo.com
+263, Adhesivo en pasta AC 1kg, Selladores, 1690, Konstruyendo.com
+264, Agorex silicona 700 Blanco, Selladores, 4250, Konstruyendo.com
+265, Siliona alta temperatura roja, Selladores, 6120, Konstruyendo.com
+266, Agorex espuma expansiva 750ml, Selladores, 8320, Konstruyendo.com
+257, Sellador acrilico Pintable 360, Selladores, 1940, Konstruyendo.com
+258, Agorex tapagoteras 4.5kg, Selladores, 29310, Konstruyendo.com
+259, Agorex sellante acrilico 600, Selladores, 3530, Konstruyendo.com
+260, Silicona Blanca pintable 310ml, Selladores, 1140, Konstruyendo.com
