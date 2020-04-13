@@ -4,8 +4,13 @@ import java.lang.Integer;
 
 
 public class Texto{
+  int[] ID;
+  String[] Nombre;
+  String[] Categoria;
+  int[] Precio;
+  String[] Tienda;
 
-  private static int contadorDeLineas(final String filePath) {
+  private int contadorDeLineas(final String filePath) {
     int lines = 0;
     try{
         File file =new File(filePath);
@@ -23,37 +28,37 @@ public class Texto{
     catch(IOException e){ e.printStackTrace(); }
     return lines;
 }
-  //  public static void main(String[] args) {
-  //    cargarArrays();
-  //  }
+    //public static void main(String[] args) {
+    //  Texto();
+    //}
 
-      public static void cargarArrays() {
+      public Texto() {
     // Read in the data file.
     final String dir = System.getProperty("user.dir");
     String filePath = dir + "/ProductosDeConstruccion.txt";
     int lines = contadorDeLineas(filePath);
 
-    int[] ID = new int[lines];
-    String[] Nombre = new String[lines];
-    String[] Categoria = new String[lines];
-    int[] Precio = new int[lines];
-    String[] Tienda = new String[lines];
+    this.ID = new int[lines];
+    this.Nombre = new String[lines];
+    this.Categoria = new String[lines];
+    this.Precio = new int[lines];
+    this.Tienda = new String[lines];
 
     try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
         String sCurrentLine;
         int x = 0;
-        int i = x + 1;
+
         // Read in one line at a time and Fill the Arrays...
         while ((sCurrentLine = br.readLine()) != null) {
              // Split each line read into an array upon itself.
              String[] fileLine = sCurrentLine.split(", ");
 
              // Fill our required Arrays...
-             ID[x] = Integer.parseInt(fileLine[0]);
-             Nombre[x] = fileLine[1];
-             Categoria[x] = fileLine[2];
-             Precio[x] = Integer.parseInt(fileLine[3]);
-             Tienda[x] = fileLine[4];
+             this.ID[x] = Integer.parseInt(fileLine[0]);
+             this.Nombre[x] = fileLine[1];
+             this.Categoria[x] = fileLine[2];
+             this.Precio[x] = Integer.parseInt(fileLine[3]);
+             this.Tienda[x] = fileLine[4];
               x++;
         }
         br.close();
