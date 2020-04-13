@@ -23,7 +23,9 @@ public class Laboratorio1{
         msg8 = "Encontrar la posicion del valor menor";
         msg9 = "Contar cuantos valores son mas altos que cierto valor";
         msg10 = "contar cuandos valores son mas bajos que cierto valor";
-
+        Texto texto = new Texto();
+        texto.cargarArrays();
+        
         Menu men = new Menu();
         do{
         seleccionado1 = men.selecciona(msg1, msg2, msg3);

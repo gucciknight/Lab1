@@ -1,0 +1,500 @@
+1, Pega bloques de vidrio 5kg, Pegamentos, 4990, Homecenter
+2, Pega bloques de vidrios 15kg, Pegamentos, 14990, Homecenter 
+3, Morteros de reparacion 5kg, Cementos, 3990, Homecenter 
+4, Morteros de reparacion 15kg, Cementos, 8630, Homecenter 
+5, Estuco termico 20kg, Cementos, 9990, Homecenter 
+6, Estuco interior 25kg, Cementos, 2690, Homecenter 
+7, Estuco exterior 25kg, Cementos, 2690, Homecenter 
+8, Hormigon preparado 25kg, Cementos, 2690, Homecenter 
+9, Nivelador de pisos 25kg, Cementos, 8990, Homecenter 
+10, Mortero Piso, 25kg Cementos, 2690, Homecenter 
+11, Hormigon Rapido, 25kg Cementos, 6490, Homecenter 
+12, Mortero anclaje & nivelacion 25kg, Cementos, 11290, Homecenter
+13, Mortero pega, 25kg Cementos, 2795, Homecenter 
+14, Mortero Color (negro) 20kg, Cementos, 15990, Homecenter 
+15, Mortero Color (rojo) 20kg, Cementos, 15990, Homecenter
+16, Mortero Color (ocre) 20kg, Cementos, 15990, Homecenter
+17, Mortero Color (gris) 20kg, Cementos, 15990, Homecenter
+18, Cemento gris 1kg, Cementos, 490, Homecenter 
+19, Cemento gris 5kg, Cementos, 2290, Homecenter 
+20, Cemento para refractario 1kg, Cementos, 8090, Homecenter
+21, Yeso espuma 25kg, Yesos, 3980, Homecenter
+22, Yeos express 25kg, Yesos, 3980, Homecenter 
+23, Cal Hidraulica 25kg, Cales, 4920, Homecenter 
+24, cal pintaca; de 25kg, Cales, 4690, Homecenter 
+25, Cal cica de 1 kg, Cales, 1490, Homecenter 
+26, Tierras de color(amarillo) 1kg, Tierras, 2490, Homecenter 
+27, Tierras de color(Rojo) 1kg, Tierras, 2490, Homecenter 
+28, Tierras de color(azul) 1kg, Tierras, 6590, Homecenter 
+29, Tierras de color(Rojo) 1kg, Tierras, 3690, Homecenter
+30, Masilla base 25kg, Masillas, 15390, Homecenter 
+31, Masilla base para juntas, Masillas, 5290, Homecenter 
+32, Ladrillo super 7 2.7 Kg, Ladrillos, 290, Homecenter 
+33, Ladrillo Super 9 3.5kg, Ladrillos, 690, Homecenter 
+34, Ladrillo Super 11 4.3kg, Ladrillos, 990, Homecenter
+35, Ladrillo Titan 3kg , Ladrillos, 290, Homecenter 
+36, Ladrillo Condor 2.4Kg, Ladrillos, 290, Homecenter 
+37, Ladrillo Super condor 3.2kg, Ladrillos, 490, Homecenter 
+38, Ladrillo Fiscal 3.5kg, Ladrillos, 150, Homecenter 
+39, Ladrillo Chapa 5.95kg 20 unid, Ladrillos, 9290, Homecenter
+40, Ladrillo Fachada Isa 7.85kg 12 unid, Ladrillos, 8120, Homecenter
+41, Ladrillo Estrada 7.85kg 12 unid, Ladrillos, 8890, Homecenter 
+42, Ladrillo Baston 8.55 16 unid, Ladrillos, 5490, Homecenter
+43, Ladrillo Recto 9.1kg 3 unid, Ladrillos, 6190, Homecenter
+44, Ladrillo Tablilla 10.2Kg 6 unid, Ladrillos, 7990, Homecenter
+45, Arena fina 25kg, Aridos, 920, Homecenter 
+46, Arena gruesa 25kg, Aridos, 940, Homecenter 
+47, Gravilla 25kg, Aridos, 946, Homecenter 
+48, Pastelon liso 40x40cm, Pastelones, 1990, Homecenter
+49, Piedra de Maipo 40x40cm, Pastelones, 2190, Homecenter
+50, Pastelon gris 40x40cm, Pastelones, 1690, Homecenter
+51, Pastelon gris 300 Granal 40x40cm, Pastelones, 2690, Homecenter
+52, Pastelon granitico 40x40cm, Pastelones, 5390, Homecenter
+53, Pastelon grano Fulget 40x40cm, Pastelones, 2290, Homecenmter
+54, Pastelon gris 300 pulido 40x40cm, Pastelones, 3290, Homecenter
+55, Pastelon piedra 40x40cm, Pastelones, 3490, Homecenter
+56, Solerilla canto redondo 20x100cm, Pastelones, 2490, Homecenter
+57, Solerilla canto redondo 50x20cm, Pastelones, 990, Homecenter
+58, Solerilla canto redondo 100x20cm, Pastelones, 1890, Homecenter
+59, Solerilla canto redondo 20x100cm, Pastelones, 2380, Homecenter
+60, Solerilla canto redondo 20x53cm, Pastelones, 1290, Homecenter
+61, Adocretos Europa Rojo 8x10.7x22cm, Adocretos, 296, Homecenter
+62, Adocretos Europa Gris 8x10.7x22cm, Adocretos, 330, Homecenter
+63, Adocretos rectos Rojo 6x10x20cm, Adocretos, 1100, Homecenter
+64, Adocretos rectos lisos Gris 6x10x20, Adocretos, 290, Homecenter
+65, Adocesped Maipo 31x31x8cm, Adocesped, 1990, Homecenter
+66, Adocesped Fulget 31x31x8cm, Adocesped, 1990, Homecenter
+67, Adoquines para cesped 30x44x8cm, Adoquines, 1190, Homecener 
+68, Adoquines para cesped 33x33x8cm, Adoquines, 1190, Homecenter
+69, Palmeta para cesped 46x42, Palmetas, 1990, Homecenter
+70, Bloque liso 21 kg 39x14x19cm, BLoques lisos, 1430, Homecenter
+71, Bloque liso 17kg 19x14x19cm, BLoques lisos, 1290, Homecenter
+72, Apoyo de anclaje 64.9kg, Apoyos de Anclaje, 5590, Homecenter
+73, Apoyo de anclaje 25.68kg, Apoyos de Anclaje, 2090, Homecener
+74, Apoyo de anclaje 70kg, Apoyos de Anclaje, 4690, Homecenter
+75, Sidakur 31 gel 1.3kg, Aditivos de reparacion, 11490, Homecenter
+76, Sidakur 31 gel 5kg, Aditivos de reparacion, 11490, Homecenter
+77, Sidakur 32 juego 1.23kg, Aditivos de reparacion, 56870, Homecenter
+78, Sikadur 32 juego 5.5kg, Aditivos de reparacion, 13690, Homecenter
+79, Sikadur 52 juego 1.23, Aditivos de reparacion, 21990, Homecenter
+80, Sika Grount, Aditivos de reparacion, 14110, Homecenter
+81, Colmafix 32 1.23kg, Aditivos de reparacion, 14390, Homecenter
+82, Colmafix 32 5.5, Aditivos de reparacion, 60790, Homecenter
+83, Sika Grount 212 25k, Aditivos de reparacion, 10790, Homecenter
+84, Sika Rep 25k, Aditivos de reparacion, 10790, Homecenter
+85, Sikalisto Repair plus 5kg, Aditivos de reparacion, 3590, Homecenter
+86, Sikalisto Repair plus 15kg, Aditivos de reparacion, 5690, Homecenter
+87, Sikalisto Repair Plus 25kg, Aditivos de reparacion, 11090, Homecenter
+88, Sika mix-A multiuso 5kg, Aditivos de reparacion, 10490, Homecenter
+89, Sika mix-A multiuso 25kg, Aditivos de reparacion, 20990, Homecenter
+90, Anchorfix 300cc, Aditivos de reparacion, 23490, Homecenter
+91, Topex Pegadour - 31 1kg, Aditivos de reparacion, 9760, Homecenter
+92, Escala Articulada 3.6m, Escaleras, 48990, Homecenter
+93, Escala 1.4m, Escaleras, 28990, Homecenter
+94, Escala tijera 1.52m, Escaleras, 56490, Homecenter
+95, Escala tijera 1.87m, Escaleras, 59990, Homecenter
+96, Escala tijera 1.83m, Escaleras, 69990, Homecenter 
+97, Escala tijera 1.82m, Escaleras, 79990, Homecenter
+98, Escala tijera de aluminio 2.40m, Escaleras, 102190, Homecenter
+99, Escala tijera de fibra de viduio 1.96m, Escaleras, 99990, Homecenter
+100, Escala metalica 1m, Escaleras, 39990, Homecenter
+101, Escala de aluminio telescopica 6.4m, Escaleras, 172990, Homecenter
+102, Escala de fibra de vidrio telescopica 6.4m, Escaleras, 69990, Homecenter
+103, Escala de aluminio telescopica 1.27m, Escaleras, 69990, Homecenter
+104, Escala de aluminio telescopica 5.18m, Escaleras, 168990, Homecenter
+105, Sika - 1 Bidon, Aditivos para mezclas, 8690, Homecenter
+106, Sika - 1 Tineta, Aditivos para mezclas, 18490, Homecenter
+107, Sika - 1 Tambor, Aditivos para mezclas, 109990, Homecenter
+108, Sika - 2 Bidon, Aditivos para mezclas, 15590, Homecenter
+109, Sika - 2 Tineta, Aditivos para mezclas, 49990, Homecenter
+110, Sika - 3 Bidon, Aditivos para mezclas, 9690, Homecenter
+111, Sika - 3 Tineta, Aditivos para mezclas, 88190, Homecenter
+112, Sika - 3 Tambor, Aditivos para mezclas, 170790, Homecenter
+113, Sika Latex Bidon, Aditivos para mezclas, 28390, Homecenter
+114, Sika Latex Tineta, Aditivos para mezclas, 88190, Homecenter
+115, Sika latex Tambor, Aditivos para mezclas, 445000, Homecenter
+116, Cave II Plug 14kg, Aditivos para mezclas, 88990, Homecenter
+117, Cave II Plug 2kg, Aditivos para mezclas, 11490, Homecenter
+118, Plasmatix 400 251kg, Aditivos para mezclas, 197850, Homecenter
+119, Cave fibras 0,00kg, Aditivos para mezclas, 6990, Homecenter
+120, Topex-1 4,5l, Aditivos para mezclas, 6959, Homecenter
+121, Topex -1 18l, Aditivos para mezclas, 14790, Homecenter
+122, Topex - 3 4,5l, Aditivos para mezclas, 14790, Homecenter
+123, Topex - 3 18l, carl coxAditivos para mezclas, 19990, Homecenter
+124, Topex latex 4.51, Aditivos para mezclas, 21110, Homecenter
+125, Topex latex 18l, Aditivos para mezclas, 70550, Homecener
+126, Igol Primer Tarro 3l, Impermeabilizantes, 13690, Homecenter
+127, Igol Primer Tineta 16l, Impermeabilizantes, 41790, Homecenter
+128, Igol Primer Tambor 18l, Impermeabilizantes, 350000, Homecenter
+129, Sika Igol Denso Tarro 180l, Impermeabilizantes, 12790, Homecenter
+130, Sika igol Denso Tineta 16l, Impermeabilizantes, 42990, Homecenter
+131, Sika igol Denso Tambor 180l, Impermeabilizantes, 330000, Homecenter
+132, Sikatop 107 Monocompatible 20kg, Impermeabilizantes, 19390, Homecenter
+133, Cave Floor Seal-S 3l, Impermeabilizantes, 19190, Homecenter
+134, Sikaplug 20kg, Impermeabilizantes, 40600, Homecenter
+135, Sikaplug 12kg, Impermeabilizantes, 33840, Homecenter
+136, Sikaplug 1.7kg, Impermeabilizantes, 7480, Homecenter
+137, Dynal Primer Galon, Impermeabilizantes, 9090, Homecenter
+138, Dynal Primer Tineta, Impermeabilizantes, 34990, Homecenter
+139, Dynal Denso Galon, Impermeabilizantes, 9090, Homecenter
+140, Dynal Denso Tineta, Impermeabilizantes, 34990, Homecenter
+141, Sikamur Inectocream-100 300cc, Impermeabilizantes, 13290, Homecenter
+142, Promotor de adherencia yeso 20kg, Impermeabilizantes, 19990, Homecenter
+143, Promotor de adherencia yeso 10kg, Impermeabilizantes, 9990, Homecenter
+144, Promotor de adherencia yeso 5kg, Impermeabilizantes, 6990, Homecenter
+145, Cave impermeabilizante 20kg, Impermeabilizantes , 27490, Homecenter
+146, Cave Bond 5kg, Impermeabilizantes, 19780, 20kg, Homecenter
+147, Cave II hidraulico 25kg, Impermeabilizantes 5 kg, 65700, Homecenter
+148, Igol 2 acua tineta 17l, Impermeabilizantes, 43290, Homecenter 
+149, Membrana asfaltica mineral 4 kg, Impermeabilizantes, 71190, Homecenter
+150, JD2 plusAL 1x10m, Impermeabilizantes, 69290, Homecenter
+151, JD2 plus 1x10m, Impermeabilizantes, 59890, Homecenter
+152, Dynalam 1x10m, Impermeabilizantes, 59890, Homecenter
+153, Jd2 plus arena 1x10m, Impermeabilizantes, 67390, Homecenter
+154, Dinag AR k 4 1x10m, Impermeabilizantes, 18990, Homecenter
+155, Dinag AR 4 k 1x10m, Impermeabilizantes, 68990, Homecenter
+156, Impermeabilizante asfaltico RA-85 16kg, Impermeabilizantes, 37990, Homecenter
+157, Impermeabilizante asfaltico RA-85 50kg, Impermeabilizantes, 89990, Homecenter
+158, Membrana asfatica, Impermeabilizantes, 33790, Homecenter
+159, Carbolineo 1 galon, Impermeabilizantes, 15890, Homecenter
+160, carbolineo 1 17l, Impermeabilizantes, 53890, Homecenter
+161, Dynealeum L 1 galon, Impermeabilizantes, 15390, Homecenter
+162, Dynaleum L 17l, Impermeabilizantes, 53890, Homecenter
+163, Igol Flex 3kg, Impermeabilizantes, 25590, Homecenter
+164, Topex desmoldante madera 4.51l, Desmoldantes, 17190, Homecenter
+165, Topex desmoldante madera 16l, Desmoldantes, 56590, Homecenter
+166, Topex desmoldante metal 4,5l, Desmoldantes, 12800, Homecenter
+167, Topex desmoldante metal 16l, Desmoldantes, 40110, Homecenter
+168, Sikaform Madera 200l, Desmoldantes, 450000, Homecenter
+169, Sikaform Metal 16l, Desmoldantes, 47190, Homecenter
+170, Sikaform Metal 200l, Desmoldantes, 350000, Homecenter
+171, Sika Separol acqua 17l, Desmoldantes, 44590, Homecenter
+172, Topex no-sol 4.5l, Membranas de curado, 10020, Homecenter
+173, ToTopex no-sol 18l, Membranas de curado, 29490, Homecenter
+174, Sika Antisol 4.5l, Membranas de curado, 11790, Homecenter
+175, Sika Antisol 18l, Membranas de curado, 34690, Homecenter
+176, Sika Antisol 200l, Membranas de curado, 220000, Homecenter
+177, Pilar acma 2.5m largo 15cm ancho 15cm prof 8mm espesor, Pilares, 7990, Homecenter
+178, Pilar acma 3m largo 15cm ancho 15cm prof 8mm espesor, Pilares, 4930, Homecenter
+179, Pilar acma 3.4m largo 15cm ancho 15cm prof 9.2mm espesor, Pilares, 9390, Homecenter
+180, Pilar acma 3.4m largo 15cm ancho 20cm prof 9.2mm espesor, Pilares, 14790, Homecenter
+181, Cadena acma 4.5m largo 15cm ancho 20cm prof 8mm espesor, Pilares, 18990, Homecenter
+182, Cadena acma 4.5m largo 15cm ancho 20cm prof 9.2mm espesor, Pilares, 17690, Homecenter
+183, Cadena acma 4.5m largo 15cm ancho 30cm prof 9.2mm espesor, Pilares, 16490, Homecenter
+184, Cadena acma 4.5m largo 15cm ancho 25cm prof 9.2mm espesor, Pilares, 17890, Homecenter
+185, Escalerilla Diametro 4.2mm Peso 1.39 plastico, Escalerilla, 1990, Homecenter
+186, Malla acma c92, Malla, 14990, Homecenter
+187, Malla acma c-139, Malla, 22310, Homecenter
+188, Malla galvanizada multiproposito 10kg, Malla, 3790, Homecenter
+189, Cerco Acma 3G 5m largo 1.85m ancho, Cercos, 42990, Homecenter
+190, Cerco Galvainzado 1G 3x1.85m, Cercos, 21969, Homecenter
+191, Fierro SAE 1010 de 8mm x 6m, Barras de fierro, 2490, Homecenter
+192, Fierro estirado 12mmx6mx5.33m 5.33kg, Barras de fierro, 590, Homecenter
+193, Fierro estirado 6mmx6mx5.33m 1.33kg, Barras de fierro, 590, Homecenter
+194, Fierro estirado 12mmx6mx5.33m 5.33kg, Barras de fierro, 590, Homecenter
+195, Fierro estirado 8mmx6mx5.33m 2.37kg, Barras de fierro, 590, Homecenter
+196, Fierro estirado 6mmx6mx5.33m 3.70kg, Barras de fierro, 590, Homecenter
+197, Fierro redondos lisos SAE1020 10mmx6m 3.72kg, Barras de fierro, 3990, Homecenter
+198, Fierro redondos lisos SAE1020 12mmx6m 5.34kg, Barras de fierro, 7690, Homecenter
+199, Fierro redondos lisos SAE1020 16mmx6m 9.48kg, Barras de fierro, 11490, Homecenter
+200, Fierro redondos lisos SAE1020 18mmx6m 12kg, Barras de fierro, 16290, Homecenter
+201, Fierro redondos lisos SAE1020 19mmx6m 2.37kg, Barras de fierro, 18090, Homecenter
+202, Fierro redondos lisos SAE1020 22mmx6m 5.34kg, Barras de fierro, 24190, Homecenter
+203, Perfiles tubulares redondos 3/4"x1.5mm 6m largo, Tubos redondos, 3330, Homecenter
+204, Perfiles tubulares redondos 5/8"x1.5mm 6m largo, Tubos redondos, 3190, Homecenter
+205, Perfiles tubulares redondos 7/8"x1.5mm 6m largo, Tubos redondos, 5190, Homecenter
+206, Perfiles tubulares redondos 1"x1.5mm 6m largo, Tubos redondos, 4050, Homecenter
+207, Perfiles tubulares redondos 2"x1.5mm 6m largo, Tubos redondos, 8380, Homecenter
+208, Perfiles tubulares redondos 1 1/2"x1.5mm 6m largo, Tubos redondos, 6500, Homecenter
+209, Perfiles tubulares redondos 1 1/4"x1.5mm 6m largo, Tubos redondos, 5790, Homecenter
+210, Perfiles tubulares redondos 1 3/4"x1.5mm 6m largo, Tubos redondos, 9000, Homecenter
+211, Perfiles tubulares redondos 2 1/2"x1.5mm 6m largo, Tubos redondos, 12400, Homecenter
+212, Perfiles tubulares redondos 2 1/2"x1.5mm 6m largo, Tubos redondos, 5120, Homecenter
+213, Perfiles tubulares redondos 1"x2mm 6m largo, Tubos redondos, 9000, Homecenter
+214, Perfiles tubulares redondos 2"x2mm 6m largo, Tubos redondos, 11190, Homecenter
+215, Perfiles tubulares redondos 3"x2mm 6m largo, Tubos redondos, 19290, Homecenter
+216, Perfiles tubulares redondos 1 1/4"x2mm 6m largo, Tubos redondos, 8490, Homecenter
+217, Fierros cuadrados lisos 10mm ancho 6m largo 4.74kg, Fierros cuadrados, 6990, Homecenter
+218, Fierros cuadrados lisos 12mm ancho 6m largo 6.78kg, Fierros cuadrados, 9690, Homecenter
+219, Planos laminados en caliente 12x3mm 6m largo 1.69kg, Fierros cuadrados, 1500, Homecenter
+220, Planos laminados en caliente 16x3mm 6m largo 2.26kg, Fierros cuadrados, 1870, Homecenter
+221, Planos laminados en caliente 20x3mm 6m largo 2.82kg, Fierros cuadrados, 2345, Homecenter
+222, Planos laminados en caliente 25x3mm 6m largo 3.53kg, Fierros cuadrados, 2620, Homecenter
+223, Planos laminados en caliente 32x3mm 6m largo 4.52kg, Fierros cuadrados, 2910, Homecenter
+224, Planos laminados en caliente 50x3mm 6m largo 7.08kg, Fierros cuadrados, 5260, Homecenter
+225, Planos laminados en caliente 25x5mm 6m largo 5.88kg, Fierros cuadrados, 5100, Homecenter
+226, Planos laminados en caliente 50x5mm 6m largo 11.76kg, Fierros cuadrados, 8750, Homecenter
+227, Perfiles cuadrados 15x15x1.0mm 6m largo, Fierros cuadrados, 2200, Homecenter
+228, Perfiles cuadrados 20x20x1.0mm 6m largo, Fierros cuadrados, 2897, Homecenter
+229, Perfiles cuadrados 15x15x1.5mm 6m largo, Fierros cuadrados, 2996, Homecenter
+230, Perfiles cuadrados 20x20x1.5mm 6m largo, Fierros cuadrados, 3860, Homecenter
+231, Sikarep 25 kg, Cementos, 11990, Konstruyendo.com
+232, Cemento corriente 1pallet, Cementos, 185600, Konstruyendo.com
+233, Yeso espuma romeral 25kg, Cementos, 4120, Konstruyendo.com
+234, Masilla liviana magica blanda, Cementos, 25560, Konstruyendo.com
+235, igol primer 3l, Cementos, 12460, Konstruyendo.com
+236, Sikadur 32 gel juego 5kg AB, Cementos, 65800, Konstruyendo.com
+237, Igol Denso 3l, Cementos, 11940, Konstruyendo.com
+238, Revestimiento maquillaje 25kg, Cementos, 5890, Konstruyendo.com
+239, Cemento 25kg, Cementos, 3000, Konstruyendo.com
+240, Tierra de color zul primavera 1kg, Cementos, 3290, Konstruyendo.com
+241, cemento corriente 25kg, Cementos, 3140, Konstruyendo.com
+242, Sika latex tambor 200lt, Cementos, 557300, Konstruyendo.com
+243, Sikadur-52 1kg, Cementos, 16730, Konstruyendo.com
+244, WD-40 155 GR, Cementos, 3700, Konstruyendo.com
+245, Tierra de color rojo primavera 1kg, Cementos, 3160, Konstruyendo.com
+246, Cemento especial cbb 25kg, Cementos, 3160, Konstruyendo.com
+247, Sika latex, 4.5kg,Cementos, 23420, Konstruyendo.com
+248, Igol primer 3lt, Cementos, 12460, Konstruyendo.com
+249, Igol denso 213 25kg, Cementos, 10900, Konstruyendo.com
+250, Saco de semento 25kg, Cementos, 3290, Konstruyendo.com
+251, Limpia contacto lotite sf 7647, Cementos, 7070, Konstruyendo.com
+252, Sikgrout 214 25kg, Cementos, 10900, Konstruyendo.com
+253, Sikadur 32 gel 1kg, Cementos, 12930, Konstruyendo.com
+254, Sika 2 4.5lt, Cementos, 15060, Konstruyendo.com
+255, Sikadur 32 gel juego 5kg, Cementos, 65800, Konstruyendo.com
+256, Antisol tambor 200lt, Cementos, 264180, Konstruyendo.com
+257, Revestimiento maquillaje 25kg, Cementos, 5890, Konstruyendo.com
+258, Cemento 25kg, Cementos, 3000, Konstruyendo.com
+259, Adhesivo en pasta Ac 6kg, Pegamentos, 4700, Konstruyendo.com
+260, Agorex-60 1/32gl, Pegamentos, 2380, Konstruyendo
+261, Loctite 271 trabapernos 50cc, Pegamentos, 25190, Konstruyendo.com
+262, Adhesivo de montaje agorex, Pegamentos, 4500, Konstruyendo.com
+263, Adhesivo en pasta AC 1kg, Selladores, 1690, Konstruyendo.com
+264, Agorex silicona 700 Blanco, Selladores, 4250, Konstruyendo.com
+265, Siliona alta temperatura roja, Selladores, 6120, Konstruyendo.com
+266, Agorex espuma expansiva 750ml, Selladores, 8320, Konstruyendo.com
+267, Estuco exterior 25 kg mortero Transex, Cementos, 3070, Easy
+268, Mortero pega albañilería 25 kg Presec, Cementos, 2530, Easy
+269, Sikagrout 212 saco 25 kg Sika, Cementos, 11890, Easy 
+270, Mortero 2 kg frague acelerador ii plug Cave, Cementos, 11490, Easy
+271, Mortero pega ladrillo refractario 10 kg Drl, Cemtntos, 5790, Easy
+272, Gravilla 25 kg Aridos imexel, Cementos, 990, Easy
+273, Arena gruesa 25 kg Río Maipo, Cementos, 1050, Easy
+274, Pintura impermeabilizante 3lt Sika, Cementos, 9890, Easy
+275, Tierra liviana 1 kilo amarilla Iberica, Cementos, 1690, Easy
+276, Acelerador de fraguado 18 lts sika 2 Sika, Cementos, 43490, Easy 
+277, Imprimante asfáltico 16 lts igol primer Sika, Cementos, 37990, Easy
+278, Tierra primera 1 kilo negro Iberica, Cementos, 3590, Easy
+279, Adhesivo epóxico 1 kg sikadur 52 Sika, Cementos, 19790, Easy
+280, Aditivo impermeabilizante 4,5 lts sika 1 Sika, Cementos, 9290, Easy 
+281, Pintura impermeabilizante 16 lts igol denso Sika, Cementos, 39490, Easy
+282, Impermeabilizante 2 kg cave i seal Cave, Cementos, 7090, Easy
+283, Acelerador fraguado 950 ml Sika, Cementos, 5590, Easy 
+284, Tierra primera 1 kilo azul Iberica, Cementos, 2990, Easy
+285, Membra hidrofuga 28 m2 Home Wrap muro Mathiesen, Cementos, 32990, Easy
+286, Membrana hidrófuga para techo 75 m2 Tyvek Soft Mathiesen, Cementos, 137790, Easy
+287, Tierra primera 1 kilo verde Iberica, Cementos, 2990, Easy
+288, Piso flotante 12 mm Bjorg 1,6 m2 Kaindl, Pisos, 22864, Easy 
+289, Piso flotante 12 mm Historic 1,6 m2 Kaindl, Pisos, 24304, Easy
+290, Piso flotante 8 mm Aquapro trend 2,4 m2 Kaindl, Pisos, 23736, Easy
+291, Piso flotante 8 mm Aquapro shore 2,4 m2 Kaindl, Pisos, 24696, Easy
+292, Piso vinílico 5,2 mm Mandala beige 2,196 m2 Klipen, Pisos, 37311, Easy
+293, Piso vinílico 5,2 mm Mandala latte 2,196 m2 Klipen, Pisos, 39507, Easy
+294, Piso vinílico 5 mm SPC Mystic edén café mate 2,196 m2 Klipen, Pisos, 33581, Easy
+295, Piso vinílico madera 2 mm 2,79m2 Roble Baldara, Pisos, 16712, Easy
+296, Piso vinílico madera 2 mm 2,79m2 Cerezo Baldara, Pisos, 15317, Easy
+297, Piso vinílico piso/muro 3 mm SPC Anuri beige natural 3,5136 m2 Klipen, Pisos, 47790, Easy
+298, Piso vinílico piso/muro 5 mm SPC Indie gris 2,253 m2 Klipen, Pisos, 40197, Easy
+299, Piso vinílico 4 mm Austral lenga 2,6 m2 Etersol, Pisos, 35334, Easy
+300, Piso vinílico rollo 2,6 mm Sawn beige 1m2 Klipen, Pisos, 8390, Easy
+301, Piso vinílico rollo 2,6 mm Oak salmón 1m2 Klipen, Pisos, 8390, Easy
+302, Piso vinílico rollo 2,6 mm Honeycomb gris 1m2 Klipen, Pisos, 8415, Easy
+303, Piso vinílico rollo 2,6 mm Concrete wood gris claro 1m2 Klipen, Pisos, 8415, Easy
+304, Piso vinílico 5,2 mm Mystic mirus con bisel 2,196 m2 Klipen, Pisos, 39507, Easy
+305, Piso vinílico 5,2 mm Mystic mirus 2,196 m2 Klipen, Pisos, 35554, Easy
+306, Piso vinílico 5 mm Indie grafito 2,235 m2 Klipen, Pisos, 40208, Easy
+307, Piso vinílico madera 2 mm 2,79m2 Robleda Baldara, Pisos, 15875, Easy
+308, Piso vinílico 5 mm Indie natural 2,235 m2 Klipen, Pisos, 40208, Easy
+309, Espuma Niveladora para Pisos 10 m 2 Funktion, Pisos, 7990, Easy
+310, Manto polietileno acústico 25 m 2 Funktion, Pisos, 15990, Easy
+311, Manta film 10 m 2 polietileno acústica aluminio Funktion, Pisos, 11690, Easy
+312, Manta acústica hidrófugo 3 en 1 10 m 2 Funktion, Pisos, 9290, Easy
+313, Manta de reducción acústica 5m2. Funktion, Pisos, 12690, Easy
+314, Manto poliestireno acústico e hidrofugo Funktion, Pisos, 8490, Easy 
+315, Manto film polestireno acústico e hidrofugo 25 m 2 Funktion, Pisos, 20890, Easy
+316, Esmalte al agua 1/4 galón Premium interior blanco satín Behr, Pisos, 10650, Easy
+317, Cerámica piso muro 30x30 cm piedra gris 2,34 m2 Celima, Pisos, 11677, Easy
+318, Cerámica piso 50x50 cm Cyrus Rosso 2,51 m2 Cejatel, Pisos, 12524, Easy
+319, Cerámica piso muro 22x118 cm Indiana Plus 1,69 m2 Cejatel, Pisos, 12658, Easy
+320, Cerámica 30x30 cm Alamosa beige 1,02 m2 Celima, Pisos, 4580, Easy
+321, Cerámica 30x30 cm Alamosa grey 1,02 m2 Celima, Pisos, 4580, Easy
+322, Cerámica piso muro 46x46 cm Rívoli beige 2,58 m2 Allpa, Pisos, 11068, Easy
+323, Cerámica piso 45x45 cm Nativa beige 2,08 m2 Cordillera, Pisos, 12043, Easy
+324, Cerámica piso 60x60 cm Quarzita gold 1,44 m2 Cordillera, Pisos, 12890, Easy
+325, Cerámica 20 x 60 cm kalmal gris 1,08m2 Atrium, Pisos, 9709, Easy
+326, Cerámica piso 20x60 cm Kalmal wengue 1,08 m2 Atrium, Pisos, 7765, Easy 
+327, Cerámica gres piso muro 20x60 cm Corsica argent 1,08 m2 Cristacer, Pisos, 7873, Easy
+328, Cerámica piso muro 60x60 cm cemento beige 1,44 m2 Baldara, Pisos, 7690, Easy
+329, Cerámica 60x60 cm Cotto Rojo 1,44 m2 Baldara, Pisos, 7690, Easy 
+330, Carámica muro 30x60 cm blanco 1,62 m2 Baldara, Pisos, 7760, Easy
+331, Cerámica muro 30x60 cm cuadros blanco 1,62 m2 Baldara, Pisos, 7490, Easy
+332, Cerámica muro 20x30 cm Calacata 1.5 m2 Baldara, Pisos, 4890, Easy
+333, Cerámica marmoleada muro 20x30 cm Victoria azul 1.5 m2 Baldara, Pisos, 4390, Easy
+334, Cerámica muro 30x60 cm Ondas brillo 1,62 m2 Baldara, Pisos, 8390, Easy
+335, Cerámica muro 20x30cm fachaleta 1,5 m2 Baldara, Pisos, 8235, Easy
+336, Cerámica 29x59 cm blanco 1,58 m2 Pamesa, Pisos, 11044, Easy
+337, Cerámica piso 45x45 cm Laja scala 2,08 m2 San Lorenzo, Pisos, 10379, Easy
+338, Cerámica piso 45x45 cm linda natural 2,08 m2 San lorenzo, Pisos, 12459, Easy
+339, Cerámica piedra 45x45 cm laja terracota 2,08 m2 Cordillera, Pisos, 8299, Easy
+340, Cerámica piedra 34x50 cm 1,7 m2 Gales musgo Pamesa, Pisos, 20383, Easy
+341, Gres cerámica piso muro 44x44 cm pizarra 1,54 m2 Klipen, Pisos, 16890, Easy
+342, Cerámica piedra 40 x 40 cm piedra pizarra oxido 0,96m2 Cerro negro, Pisos, 11510, Easy
+343, Cerámica 31 x 59 cm Stone beige HD 2,1m2 Cejatel, Pisos, 10479, Easy 
+344, Cerámica 45x45 cm 2,08 m2 solana beige Cordillera, Pisos, 14208, Easy
+345, Cerámica 45x45 cm Zagora azul 2,08 m2 Cordillera, Pisos, 29099, Easy
+346, Cerámica 60x60 cm Decorada Jazz natural 1,44 m2 Cordillera, Pisos, 13666, Easy
+347, Cerámica marmoleada 45 x 45 cm louvre tiza 2,08m2 Cordillera, Pisos, 13647, Easy
+348, Cerámica marmoleada 45 x 45 cm louvre rojo 2,08m2 Cordillera, Pisos, 12524, Easy
+349, Cerámica piso muro 36x36 cm Tilo café 1,81 m2 Cordillera, Pisos, 10661, Easy
+350, Porcelanato piso muro 30x60 cm Emotion greige 1,44 m2 Klipen, Pisos, 15106, Easy 
+351, Gres porcelanato piso muro 20x120 cm Tavola avorio 1,38 m2 Klipen, Pisos, 24826, Easy
+352, Porcelanato piso muro 15x90 cm Barn 1,08 m2 Roman granit, Pisos, 21589, Easy
+353, Gres porcelanato 60x60 cm Terrazo pulido 1,44 m2 Klipen, Pisos, 16390, Easy
+354, Gres porcelanato 30x60 cm Pietra di Roma Silk blanco 1,44 m2 Klipen, Pisos, 18690, Easy
+355, Porcelanato 25x100 cm Carson nogal 1,5 m2 Atrium, Pisos, 13335, Easy
+356, Porcelanato piso 75x75 cm Riga perla 1,69 m2 Atrium, Pisos, 25333, Easy
+357, Gres porcelanato 20x120 cm madera tremore natural 0,72 m2 Marazzi, Pisos, 12953, Easy 
+358, Porcelanato piso muro 45x45 cm Trent nacar 1,42 m2 Atrium, Pisos, 10490, Easy
+359, Porcelanato piso muro 75x75 cm Lubeck taupe 1,69 m2 Pamesa, Pisos, 22800, Easy
+360, Gres porcelanato piso y muro 20x100 cm PM12088 gris 1 m2 Baldara, Pisos, 9290, Easy
+361, Gres porcelanato piso y muro 20x100 cm 12099 beige 1 m2 Baldara, Pisos, 9290, Easy
+362, Porcelanato 15x90 madera brillo ulmo 1.08m2 Baldara, Pisos, 16189, Easy
+363, Porcelanato piso 16x90 cm Alerce 1.008 m2 Baldara, Pisos, 12086, Easy
+364, Porcelanato piso 16x90 cm Álamo 1.008 m2 Baldara, Pisos, 9690, Easy
+365, Porcelanato piso 15x90 cm Roble 1.008 m2 Baldara, Pisos, 15109, Easy
+366, Porcelanato piso muro 15x90 cm Madera beige 1,35 m2 Baldara, Pisos, 13390, Easy
+367, Porcelanato piso muro 15x90 cm Madera gris 1,35 m2 Baldara, Pisos, 13390, Easy
+368, Porcelanato piso y muro 45x90 cm C459334 1,215 m2 Baldara, Pisos, 13353, Easy
+369, Porcelanato 20x90 cm Echo wood beige 1,8 m2 Baldara, Pisos, 18990, Easy
+370, Esmalte al agua 4 galones fácil limpieza blanco satín Sherwin Williams, Pinturas, 56890, Easy
+371, Esmalte al agua 4 galones blanco satinado Sherwin Williams, Pinturas, 56090, Easy
+372, Esmalte al agua 1 galón Platinum blanco satín Sherwin Williams, Pinturas, 24590, Easy
+373, Esmalte al agua 1 tineta Platinum blanco mate Sherwin Williams, Pinturas, 84990, Easy
+374, Sipalina rodillo G-1 hidro 24 kg 30x30 cm blanco Sipa, Pinturas, 31990, Easy
+375, Esmalte al agua 1 galón Platinum blanco mate Sherwin Williams, Pinturas, 24590, Easy
+376, Esmalte al agua 1 tineta Platinum blanco satín Sherwin Williams, Pinturas, 84990, Easy
+377, Esmalte al agua 1 galón extra lavable blanco Sherwin Williams, Pinturas, 20390, Easy
+378, Esmalte al agua 1 galón limpia fácil blanco invierno Sherwin Williams, Pinturas, 19490, Easy
+379, Sipalina rodillo 4gl G-1 blanco Sipa, Pinturas, 28490, Easy
+380, Esmalte epóxico 1 galón Specialty antibacterial blanco Behr, Pinturas, 28590, Easy
+381, Esmalte epóxico 5 galones Specialty antibacterial blanco Behr, Pinturas, 114290, Easy
+382, Pintura spray 340 gr Aero chalked gris carbón Rust-Oleum Chalked, Pinturas, 4290, Easy
+383, Pintura spray 340 gr Aero chalked gris campestre Rust-Oleum, Pinturas, 4290, Easy
+384, Pintura spray 340 gr Aero chalked crema gasa Rust-Oleum, Pinturas, 4290, Easy
+385, Papel mural Picnic ll 2329-2 Muresco, Pinturas, 29990, Easy
+386, Papel mural Casabella 114-1 Muresco, Pinturas, 9890, Easy
+387, Papel mural Crispy paper 479638 Rasch, Pinturas, 20290, Easy
+388, Papel fotomural Ventana home Komar, Pinturas, 27990, Easy
+389, Vinilo adhesivo piso 33x33cm Roma Cotidiana, Pinturas, 10490, Easy
+390, Fotomural 368x254cm Bosque 8519 Komar, Pinturas, 30690, Easy
+391, Papel mural Wok verde Muresco, Pinturas, 15090, Easy
+392, Vinilo adhesivo mural 15x15cm Venecia 12 unidades Briketo, Pinturas, 3890, Easy
+393, Papel mural 53 cm x 10 m kids & teens 292404 Rasch, Pinturas, 17490, Easy
+394, Papel mural vinílico 0.52m blanco x10 metros Wt&t, Pinturas, 14690, Easy
+395, Papel mural Florentine 455373 Rasch, Pinturas, 20990, Easy
+396, Fotomural 368x254cm puente 8733 Komar, Pinturas, 27290, Easy
+397, Papel fotomural Nw elefante 4529 Komar, Pinturas, 41690, Easy
+398, Papel autoadhesivo transparente 2 x 0,45 metros esfumado Muresco, Pinturas, 2390, Easy
+399, Papel 2 x 45 cm transparente negros Muresco, Pinturas, 2290, Easy
+400, Wallstickers corazones RoomMates, Pinturas, 6990, Easy
+401, Sticker decorativo RoomMates, Pinturas, 6990, Easy
+402, Perfil pletina 100X5 mm 6 m (23,58 kg), Fierros, 20590, Easy
+403, Alambre 2,11mmx36mt galvanizado 1 kilo. Inchalam, Fierros, 4090, Easy
+404, Alambre 1,65 mmx 60 mt galvanizado 1 kilo Inchalam, Fierros, 4290, Easy
+405, Malla soldada 2,6x5,0m C-139 Acma, Fierros, 24590, Easy
+406, Malla cuadrada galvanizada 5014 1,20x25 m, Fierros, 49590, Easy
+407, Malla cuadrada galvanizada 5014 0,80x25 m, Fierros, 39190, Easy
+408, Malla C-92 electrosoldada 2,6x5,0m Acma, Fierros, 14490, Easy
+409, Alambre 1,24mmx100mt galvanizado 1 kilo. Inchalam, Fierros, 4490, Easy
+410, Malla cuadrada galvanizada 5014 1,80x25 m, Fierros, 81510, Easy
+411, Alambre 1,24mmx20mt galvanizado. Inchalam, Fierros, 2490, Easy
+412, Alambre 0,76 mmx 40 mt galvanizado Inchalam, Fierros, 2090, Easy
+413, Alambre 1,24 mmx 100 mt galvanizado Inchalam, Fierros, 5890, Easy
+414, Malla ecosol acero galvanizado R25 1,20x25 m, Fierros, 43190, Easy
+415, Malla ecosol acero galvanizado R25 1,50x25 m, Fierros, 54790, Easy
+416, Malla hexagonal galvanizada 3/4'' 0,60x50 m, Fierros, 47590, Easy
+417, Cielo portante 40X18X10X0.5 mm 3 m (1,14 kg), Fierros, 1190, Easy
+418, Malla hexagonal galvanizada 3/4'' 1,50x50m, Fierros, 64790, Easy
+419, Melamina 15x1830x2500 mm Chiaro lino Vesto, Madera, 49990, Easy
+420, Melamina aglomerado 15x1830x2500 mm Cava Masisa, Madera, 49990, Easy
+421, Melamina aglomerado 15 x 1830 x 2500 mm cedro Arauco, Madera, 39990, Easy
+422, Marco puerta 33x90 mm Lenga 3 piezas Ignisterra, Madera, 37190, Easy
+423, Melamina aglomerado 15 x 1830 x 2500 mm coigue chocolate Arauco, Madera, 39990, Easy
+424, Melamina aglomerado 15 x 1830 x 2500 mm peral Arauco, Madera, 39990, Easy
+425, Junquillo mdf merbau brillo 2400mm Masisa, Madera, 2190, Easy
+426, Perfil desnive mdf rustico brillo 2400mm Funktion, Madera, 5490, Easy
+427, Melamina aglomerado 15 x 1830 x 2500 mm haya Arauco, Madera, 39990, Easy
+428, Perfil terminac mdf merbau brillo 2400mm Funktion, Madera, 5490, Easy
+429, Perfil nariz gr mdf merbau brillo 2400mm Funktion, Madera, 7190, Easy 
+430, Aglomerado melamínico 15x1830x2500 mm Vesto aserrado nórdico Arauco, Madera, 49990, Easy
+431, Melamina aglomerado 15x1830x2500 mm Vesto teka ártico Arauco, Madera, 49990, Easy
+432, Cubrejunta aluminio 4 x 100 cm con tornillo desnivel Idaf, Madera, 10790, Easy
+433, Cubrejunta aluminio 4 x 100 cm con tornillo madera Idaf, Madera, 10790, Easy
+434, Melamina aglomerado 15 x 1830 x 2500 mm rojo Arauco, Madera, 42990, Easy
+435, Tapacanto pvc 22 mm x 0,40 mm x 10 metros teka ártico Rehau, Madera, 2130, Easy
+436, Moldura decoflair 85x45x2000 mm E25 NMC, Madera, 14290, Easy
+437, Pierna marco 2 cm x 4'' natural Afn, Madera, 9290, Easy
+438, Moldura1/2 caña 30x30x2400 mm MC8 haya Masisa, Madera, 3790, Easy
+439, Moldura guardapolvo 12x70x2400 mm GP22 haya Masisa, Madera, 3990, Easy
+440, Moldura guardapolvo 12x70x2400 mm GP22 cerezo claro Masisa, Madera, 4190, Easy
+441, Moldura 1/4 rodón 20x20x2400 mm CR2 cerezo Masisa, Madera, 2890, Easy
+442, Moldura1/2 caña 30x30x2400 mm MC8 cerezo Masisa, Madera, 3890, Easy
+443, Cinta temflex 18 mmx 10 mts 1500 roja 3, Madera, 1495, Easy
+444, Cornisa 6 x 5 x 200 cm cb-502 n orac basixx blanco B&s, Madera, 3070, Easy
+445, Solución de borde 15 mmx 2,44 mt simple blanco Reperf, Madera, 1890, Easy
+446, Cornisa 4,5 x 2,5 x 200 cm cb-531 n orac basixx blanco B&s, Madera, 2080, Easy
+447, Cubrejunta terminal color café DVP, Madera, 4690, Easy
+448, Cornisa 30x35x2000 mm DA1 blanco Anadeco, Madera, 1970, Easy
+449, Cornisa 40x50x2000 mm DA18 blanco Anadeco, Madera, 2740, Easy
+450, Cornisa 45x50x2000 mm DA6 blanco Anadeco, Madera, 2520, Easy
+451, Membrana hidrófuga 75 m2 PRO80GRMT2 Klober, Aislacion, 79990, Easy
+452, Membrana hidrófuga 75 m2 P&T Housewrap Becton, Aislacion, 79990, Easy
+453, Fieltro asfáltico liso 1x40 m #15 L/D negro Uko, Aislacion, 11880, Easy
+454, Fieltro 10/16 16 m negro Dynal, Aislacion, 4990, Easy
+455, Rollo polietileno 4x5 m Standard negro XP, Aislacion, 5190, Easy
+456, Membrana hidrófuga 75 m2 Dynek blanco Dynal, Aislacion, 79990, Easy
+457, Rollo manga 4x5 m Premium transparente XP, Aislacion, 11750, Easy
+458, Plancha policarbonato Premium 5-V 0,7x890x2000 mm Humo, Aislacion, 10690, Easy
+459, Mortero 5 kg reparación plus Bemezcla, Aislacion, 2690, Easy
+460, Aislante térmico acústico 55x400x10000 mm Fiber block 330 Feltrex, Aislante, 5290, Easy
+461, Manto film polestireno acústico e hidrofugo 25 m 2 Funktion, Aislante, 20890, Easy
+462, Poliestireno 50x500x1000 mm expandido 12 unidades Aislapol, Aislante, 11990, easy
+463, Fieltro asfaltico 1 x 40 10 liso Becton, Islante, 11490, Easy
+464, Aislante térmico acústico 55x600x10000 mm Fiber block 330 Feltrex, Aislante, 9440, Easy
+465, Aislante térmico acústico 1200 x 15000 mm fisiterm Fisira, Aislante, 25990, Easy
+466, Pack poliestireno 15 unid 40 x 500 x 1000 mm expandido Aislapol, Aislante, 14990, Easy
+467, Pack poliestireno 30 unid 20 x 500 x 1000 mm expandido Aislapol, Aislante, 13690, Easy
+468, Poliestireno expandido 50 x 1000 x 2000 mm blanco Aislapol, Aislante, 2930, Easy
+469, Geotextil G20 10 m2 Feltrex, Aislante, 10390, Easy
+470, Fieltro asfaltico 10/40 m 2 Becton, Aislante, 15890, Easy
+471, Polietileno 1000 x 10000 mm hogar transparente Plasticos iberica, Aislante, 6590, Easy
+472, Fieltro crepado 10/40 1x40 m Volcan, Aislante, 14990, Easy
+473, Masilla 1.5kilos lista para usar Romeral, Aislante, 4190, Easy
+474, Polietileno 1000 x 10000 mm hogar naranjo Plasticos iberica, Aislante, 6590, Easy
+475, Membrana asfáltica 1x10 m 4PL31 Valli zabban, Aislante, 72190, Easy 
+476, Alutermic 1 x 30 mt aluminio 731 r Alteryc, Aislante, 31190, Easy
+477, Máscara para soldar Visor alzable Steelpro, Seguridad, 6990, Easy
+478, Lente de seguridad Securefit SF400 gris 3M, Seguridad, 4590, Easy
+479, Visor policarbonato + casquete amarillo Steelpro, Seguridad, 4590, Easy
+480, Lente seguridad carbónx15 gris Wrk Work, Seguridad, 7990, Easy
+481, Guantes multiuso poliéster látex Wrk Work, Seguridad, 1590, Easy
+482, Lente de seguridad claro McCarthy, Seguridad, 1190, Easy
+483, Antiparras seguridad K2 claro McCarthy, Seguridad, 12790, Easy
+484, Pulverizador manual 1000 cc Anasac, Seguridad, 4990, Easy
+485, Cubre calzado celeste 20 unidades Gold Guard, Seguridad, 6990, Easy
+486, Lente de seguridad gris McCarthy, Seguridad, 1190, Easy
+487, Barniz 1 galón Plastikote 15 ladrillo Chilcorrofin, Sellaodres, 20390, Easy
+488, Impermeabilizante 1 kg Chilco-stop blanco invierno Chilcorrofin, Selladores, 8890, Easy
+489, Cinta enmascarar 36mm x 40m Tesa, Selladores, 2050, Easy
+490, Set cinta enmascarar 36mm x 40m 3 unidades Tesa, Selladores, 3000, Easy
+491, Impermeabilizante 1 galón hidrorrepelente blanco Behr, Selladores, 32190, Easy
+492, Protector madera 1 galón Stain sólido Behr, Selladores, 26490, Easy
+493, Bloqueador humedad 1 galón blanco Sipa, Selladores, 29790, Easy
+494, Bloqueador humedad 1/4 galón Sipa, Selladores, 9490, Easy
+495, Acero liquido 2 tubos 56 gr gris Loctite, Selladores, 5390, Easy
+496, Impermeabilizante 5 kg Chilco-stop blanco invierno Chilcorrofin, Selladores, 34490, Easy
+497, Adhesivo papel mural 125 g Metylan polvo Henkel, Selladores, 3090, Easy
+498, Impermeabilizante 1 galón Chilco-dry Chilcorrofin, Selladores, 16490, Easy
+499, Pasta muro 1 kilo Tricolor, Selladores, 1190, Easy
+500, Sellador acrílico 1/4 galón ladrillo Tricolor, Selladores, 4790, Easy
